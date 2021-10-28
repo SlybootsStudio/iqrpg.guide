@@ -11,8 +11,10 @@
 [Discord](https://discord.gg/trm2zNB)
 
 ## Contributors
-
 - Tempest
 - Kalesaur
+
+## Help Channel
 - DucktorLarsen
 - Evelyn
+- smbisme
