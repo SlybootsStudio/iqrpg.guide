@@ -11,7 +11,7 @@
 * [Dungeons](#)
 * [Crafting](#)
 * [Clans](#)
-* [Land](#)
+* [Land](land.md)
 
 <hr>
 
