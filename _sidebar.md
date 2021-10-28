@@ -24,5 +24,3 @@
 
 * [FAQ](inventory.md)
 * [Userscripts](userscripts.md)
-
-https://www.youtube.com/watch?v=o3kNtE0PJok
