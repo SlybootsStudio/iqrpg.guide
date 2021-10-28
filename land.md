@@ -6,11 +6,11 @@
 | ----- | ---- | --------- | ----- |
 | 1 | 250,000 | 50,000 | Component Merchant
 | 2 | 1,250,000 | 250,000 | Alchemy Merchant
-| 3 | 2,500,000 | 500,000 | Large Resource
+| 3 | 2,500,000 | 500,000 | Large Resource Silo
 | 4 | 5,000,000 | 1,000,000 | Traveling Merchant
 | 5 | 10,000,000 | 2,000,000 | Component Collector
-| 6 | 20,000,000 | 4,000,000 | Giant Resource
-| 7 | 40,000,000 | 8,000,000 | Component Horder
+| 6 | 20,000,000 | 4,000,000 | Giant Resource Silo
+| 7 | 40,000,000 | 8,000,000 | Component Hoarder
 | 8 | 80,000,000 | 16,000,000 | Gem Merchant
 | 9 | 160,000,000 | 32,000,000 | Stone Merchant
 | 10 | 320,000,000 | 64,000,000 | Small Bank
