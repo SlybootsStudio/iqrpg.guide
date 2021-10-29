@@ -36,6 +36,8 @@ These are one-use raids, which go away upon completion or cancellation. They are
 | Alchemy Hut| Small Kingdom (11) | 6 | Alchemy Components, Golden Eggs
 | Large Bank | Kingdom (12) | 7 | Gold, Credits
 
+<span style='color:gold'>Credits</span> were added to the drop tables of raid level 6 onward.
+
 ## Rarity
 
 As of *Update 11*, all raids are common. Raid rarity is influenced by your **Scout** Level (see Personnel).  Rarity will also influence the total drops for a completed raid (see below).
@@ -53,4 +55,3 @@ As of *Update 11*, all raids are common. Raid rarity is influenced by your **Sco
 | <span style='color:#f70'>Legendary</span> | 8
 | <span style='color:red'>Mythic</span> | 10
 
-<span style='color:gold'>Credits</span> were added to the drop tables of raid level 6 onward.
