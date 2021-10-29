@@ -1,8 +1,12 @@
 # Land
 
-## Land Levels
+Land offers all players additional content and bonuses. Each player has their own land, which can range from a camp to a kingdom. The costs to upgrade land increase significantly, but these unlock additional bonuses and [raids](raids.md).
 
-| Level	| Name | Gold | Amount of each resource |
+> **New players** should try to get to a Village ( Level 3). This unlocks a several raids, especially the 8-hour standard raid for when you plan to be absent for a long period of time. It is not advisable to go beyond level 3 as a new player, as there are often cheaper upgrades you should focus on.
+
+## Costs
+
+| Level	| Name | Gold | Amount of each resource (metal, wood, stone) |
 | ----- | ---- | --------- | ----- |
 | 1 | Camp | 250,000 | 50,000 |
 | 2 | Small Village | 1,250,000 | 250,000 |
@@ -21,6 +25,7 @@
 | 15 | | 10,000,000,000 | 2,000,000,000 |
 | 16 | | 20,000,000,000 | 4,000,000,000 |
 
+## Bonuses
 
 Each land level gives:
 
@@ -29,14 +34,13 @@ Each land level gives:
 - 1% Resources
 - 2% Trinket drop chance
 
-
-Standard Raid Loot Bonus
+## Standard Raid Loot Bonus
 
 | Land Level | Bonus % |
 | ---------- | ------- |
 | 5 | 1% |
-| 6 |  |
-| 7 |  |
+| 6 | 5% |
+| 7 | 12% |
 | 8 | 24% |
 | 9 | 39% |
 | 10 | 59% |

@@ -4,6 +4,10 @@
 
 <hr>
 
+* [Announcements](#)
+
+<hr>
+
 * [Game Interface](#)
 * [Market](#)
 * [Dungeons](#)
