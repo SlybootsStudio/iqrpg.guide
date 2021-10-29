@@ -9,10 +9,6 @@ Welcome to **IQRPG Guide**, the unofficial help site for [Idle Quest RPG](https:
 Watch on youtube for full chapter list.
 
 
-## Games
-
-- [Game Server](https://www.iqrpg.com/)
-- [Test Server](https://test.iqrpg.com/)
 
 ## Community
 
@@ -21,7 +17,7 @@ Watch on youtube for full chapter list.
 
 ### Disclaimer
 
-This site is not associated with IQRPG, or Carl McKie. It is operated independently by players, and we give a huge thanks to our contributors.
+This site is not associated with IQRPG, or Carl McKie. It is maintained independently by players, and we give a huge thanks to our contributors.
 
 
 ## Contributors
