@@ -1,5 +1,7 @@
 # Raids
 
+<iframe width="840" height="472" rc="https://www.youtube.com/embed/yXEEa97H0-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 `Land` > `Raids`
 
 You can run one raid at a time. Raids progress even if you're offline. Raids cannot be paused. Cancelling them will have you lose your progress. Each land level has one scouted raid type associated with it.
