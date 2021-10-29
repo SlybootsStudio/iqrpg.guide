@@ -21,17 +21,17 @@ These are one-use raids, which go away upon completion or cancellation. They are
 | Name | Land (Level)	| Duration (Hours) | Reward Type |
 | ---- | ------------ | -------- | ----------- |
 | Component Merchant | Camp (1) | 1.5 | Weapon, Armor, Tool Components
-| Alchemy Merchant | Village (2) | 1.5 | Alchemy Components
+| Alchemy Merchant | Small Village (2) | 1.5 | Alchemy Components
 | Large Resource Silo | Village (3) | 1.5 | Gold, Resources
-| Traveling Merchant | Village (4) | 1.5 | Mixed
-| Component Collector | Village (5) | 1.5 | Weapon, Armor, Tool Components
-| Giant Resource Silo | Village (6) | 1.5 | Gold, Resources
-| Component Hoarder | Village (7) | 2 | Weapon, Armor, Tool Components
-| Gem Merchant | Village (8) | 3 | Gem Fragments, Gems
-| Stone Merchant | Village (9) | 3 | Sandstone, Marble, Malachite
-| Small Bank | Village (10) | 5 | Gold, Credits
-| Alchemy Hut| Village (11) | 6 | Alchemy Components
-| Large Bank | Village (12) | 7 | Gold, Credits
+| Traveling Merchant | Large Village (4) | 1.5 | Mixed
+| Component Collector | Small Town (5) | 1.5 | Weapon, Armor, Tool Components
+| Giant Resource Silo | Town (6) | 1.5 | Gold, Resources
+| Component Hoarder | Large Town (7) | 2 | Weapon, Armor, Tool Components
+| Gem Merchant | Small City (8) | 3 | Gem Fragments, Gems
+| Stone Merchant | City (9) | 3 | Sandstone, Marble, Malachite
+| Small Bank | Large City (10) | 5 | Gold, Credits
+| Alchemy Hut| Small Kingdom (11) | 6 | Alchemy Components
+| Large Bank | Kingdom (12) | 7 | Gold, Credits
 
 ## Rarity
 
