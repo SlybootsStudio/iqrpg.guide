@@ -25,15 +25,15 @@ These are one-use raids, which go away upon completion or cancellation. They are
 | ---- | ------------ | -------- | ----------- |
 | Component Merchant | Camp (1) | 1.5 | Weapon, Armor, Tool Components
 | Alchemy Merchant | Small Village (2) | 1.5 | Alchemy Components
-| Large Resource Silo | Village (3) | 1.5 | Gold, Resources
+| Large Resource Silo | Village (3) | 1.5 | Resources
 | Traveling Merchant | Large Village (4) | 1.5 | Mixed
 | Component Collector | Small Town (5) | 1.5 | Weapon, Armor, Tool Components
-| Giant Resource Silo | Town (6) | 1.5 | Gold, Resources
-| Component Hoarder | Large Town (7) | 2 | Weapon, Armor, Tool Components
+| Giant Resource Silo | Town (6) | 1.5 | Resources
+| Component Hoarder | Large Town (7) | 2 | Weapon, Armor, Tool Components, Runic Leather
 | Gem Merchant | Small City (8) | 3 | Gem Fragments, Gems
-| Stone Merchant | City (9) | 3 | Sandstone, Marble, Malachite
+| Stone Merchant | City (9) | 3 | Stone, Sandstone, Marble, Malachite
 | Small Bank | Large City (10) | 5 | Gold, Credits
-| Alchemy Hut| Small Kingdom (11) | 6 | Alchemy Components
+| Alchemy Hut| Small Kingdom (11) | 6 | Alchemy Components, Golden Eggs
 | Large Bank | Kingdom (12) | 7 | Gold, Credits
 
 ## Rarity
