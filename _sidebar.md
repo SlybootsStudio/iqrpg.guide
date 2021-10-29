@@ -4,14 +4,15 @@
 
 <hr>
 
-**Interface**
-
 * [Game Interface](#)
 * [Market](#)
 * [Dungeons](#)
 * [Crafting](#)
 * [Clans](#)
 * [Land](land.md)
+  * [Personnel](personnel.md)
+  * [Raids](raids.md)
+  * [Portal](portal.md)
 
 <hr>
 
