@@ -16,7 +16,7 @@
 * [Dungeons](dungeons.md)
 * Crafting
   * [Runecrafting](runecrafting.md)
-  * [Jewelrycrafting](jewelry.md)
+  * [Jewelcrafting](jewelcrafting.md)
   * [Alchemy](alchemy.md)
 * [Clans](clans.md)
 * [Land](land.md)

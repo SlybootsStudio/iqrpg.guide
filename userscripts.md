@@ -7,4 +7,4 @@
 ### Features
 
 * Trinket Table
-* Links to guides throughout the game.
+* Links added to the game to each guide page

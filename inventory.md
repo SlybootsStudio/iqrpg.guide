@@ -1,11 +1,24 @@
 # Inventory
 
-This is inventory.
+`Inventory`
 
-## Level 2
+> **New players** ...
 
-This is a line.
+## Walkthrough
 
-## Level 3
+...
 
-This is a line
+## Trinkets
+
+..
+
+## Runes
+
+..
+
+## Jewels
+
+..
+
+## Related
+
