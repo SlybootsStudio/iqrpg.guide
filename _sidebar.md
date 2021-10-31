@@ -4,7 +4,7 @@
 
 <hr>
 
-* [Announcements](#)
+* [Patches](patches.md)
 
 <hr>
 
