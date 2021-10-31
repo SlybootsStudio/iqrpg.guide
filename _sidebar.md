@@ -9,28 +9,28 @@
 <hr>
 
 * [Inventory](inventory.md)
-  * [Trinkets](trinkets.md)
-  * [Runes](runes.md)
-  * [Jewels](jewels.md)
+  * [Trinkets](inventory/trinkets.md)
+  * [Runes](inventory/runes.md)
+  * [Jewels](inventory/jewels.md)
 * [Market](market.md)
 * [Dungeons](dungeons.md)
 * Crafting
-  * [Runecrafting](runecrafting.md)
-  * [Jewelcrafting](jewelcrafting.md)
-  * [Alchemy](alchemy.md)
+  * [Runecrafting](crafting/runecrafting.md)
+  * [Jewelcrafting](crafting/jewelcrafting.md)
+  * [Alchemy](crafting/alchemy.md)
 * [Clans](clans.md)
 * [Land](land.md)
-  * [Personnel](personnel.md)
-  * [Raids](raids.md)
-  * [Portal](portal.md)
+  * [Personnel](land/personnel.md)
+  * [Raids](land/raids.md)
+  * [Portal](land/portal.md)
 
 <hr>
 
 * Guides
-  * [Walkthrough](walkthrough.md)
-  * [Beginners](beginners.md)
-  * [Battler](battler.md)
-  * [Gatherer](gatherer.md)
+  * [Walkthrough](guides/walkthrough.md)
+  * [Beginners](guides/beginners.md)
+  * [Battler](guides/battler.md)
+  * [Gatherer](guides/gatherer.md)
 
 <hr>
 
