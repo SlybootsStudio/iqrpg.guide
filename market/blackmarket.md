@@ -88,8 +88,3 @@
 | 73rd | 1,912,178 | 49,770,525 |
 | 74th | 1,979,685 | 51,750,210 |
 | 75th | 2,049,675 | 53,799,885 |
-
-## Related
-
-Personnel > Treasure Hunter
-Land > Trinket Drop Chance
