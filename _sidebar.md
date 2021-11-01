@@ -25,6 +25,12 @@
   * [Portal](land/portal.md)
 
 <hr>
+Gathering
+  * [Tools](gathering/tools.md)
+  * [Gathering Upgrade](gathering/gatheringupgrade.md)
+  * [Skill Shards](gathering/shards.md)
+
+<hr>
 
 * Guides
   * [Walkthrough](guides/walkthrough.md)
