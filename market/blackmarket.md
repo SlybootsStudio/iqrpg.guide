@@ -2,6 +2,14 @@
 
 `Market` &rarr; `Black Market`
 
+* The Black Market is a place to buy <span style='color:gold'>Bound Credits</span> very affordably.
+* At the beginning of each month, the credit price is reset.
+* The price increased with each credit purchase.
+* Bound credits can be spent on Premium boosts, autos, and Personnel rarity upgrades.
+* Bound credits cannot be donated to the clan, traded, or sold.
+
+> The market price for (unbound) credits is generally around 2 million gold per credit. You can purchase 75 credits before you reach this point. If you need more credits within the month, you're better off buying them for 2 million each from other players in the market itself.
+
 
 | Credit | Gold Cost | Total Gold Cost |
 | ------ | ---- | ---------- |
