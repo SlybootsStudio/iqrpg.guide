@@ -13,7 +13,7 @@
   * ~[Runes](inventory/runes.md)~
   * ~[Jewels](inventory/jewels.md)~
 * ~[Market](market.md)~
-  * ~[Token Store](market/tokenstore.md)~
+  * [Token Store](market/tokenstore.md)
   * [Black Market](market/blackmarket.md)
 * ~[Dungeons](dungeons.md)~
 * Crafting

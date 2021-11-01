@@ -1,12 +1,34 @@
-# Trinkets
+# Token Store
 
-`Inventory` &rarr; `Trinkets`
+## Boss Tokens
 
-You can run one raid at a time. Raids progress even if you're offline. Raids cannot be paused. Cancelling them will have you lose your progress. Each land level has one scouted raid type associated with it.
+..
 
-> **New players** should try to get to a Village ( Level 3) to unlock the **Warehouse**, the 8-hour standard raid. You should always have a raid running. When you can, run **Scouted** raids before **Standard** raids.
+## Jewel Slots
 
-## Related
+`Dungeoneering Tokens` from completing [Dungeons](#dungeons.md).
 
-Personnel > Treasure Hunter
-Land > Trinket Drop Chance
+### Sapphire
+
+* 1st - Free
+* 2nd - 1,100
+* 3rd - 55,000
+* 4th - 275,000
+
+### Ruby
+
+* 1st - 1,000
+* 2nd - 11,000
+* 3rd - 60,000
+* 4th - 300,00
+
+### Emerald
+
+* 1st - 10,000
+* 2nd - 65,000
+* 3rd - 325,000	
+
+### Diamond
+
+* 1st - 50,000
+* 2nd - 350,000
