@@ -4,14 +4,17 @@
 
 You can equip 3 trinkets at a time. There are two types of trinkets, Gathering and Battling.
 
-> **New players!** Trinkets are considered late-game content. Finding great trinkets will take time. They are expensive to upgrade, so to aquire the trinkets worth 
+> **New players!** Trinkets are considered late-game content. Finding great trinkets will take time and expensive to upgrade.
 
 ## Acquiring trinkets
 
 * Battling trinkets drop when battling.
 * Gathering trinkets drop when gathering (mining, woodcutting, quarrying.)
 * Trinkets
-* You can get up to two trinkets at a time, depending on your Treasure Hunter level.
+* You can get up to two trinkets at a time.
+  * 10% Chance at Treasure Hunter Level 50
+  * 30% Chance at Treasure Hunter Level 75
+  * 60% Chance at Treasure Hunter Level 100
 * Trinkets cannot be traded.
 * They can be destroyed into fragments and essence.
 * Trinket fragments can be traded or purchased in the market place and token store.
