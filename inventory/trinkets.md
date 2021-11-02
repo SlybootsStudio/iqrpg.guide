@@ -4,7 +4,7 @@
 
 You can equip 3 trinkets at a time. There are two types of trinkets, Gathering and Battling.
 
-> **New players!** Trinkets are considered late-game content. Finding great trinkets will take time. They are expensive to upgrade, so to aquire the trinkets worth 
+> **New players!** Trinkets are considered late-game content. Finding great trinkets will take time and expensive to upgrade.
 
 ## Acquiring trinkets
 
