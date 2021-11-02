@@ -11,7 +11,10 @@ You can equip 3 trinkets at a time. There are two types of trinkets, Gathering a
 * Battling trinkets drop when battling.
 * Gathering trinkets drop when gathering (mining, woodcutting, quarrying.)
 * Trinkets
-* You can get up to two trinkets at a time, depending on your Treasure Hunter level.
+* You can get up to two trinkets at a time.
+  * 10% Chance at Treasure Hunter Level 50
+  * 30% Chance at Treasure Hunter Level 75
+  * 60% Chance at Treasure Hunter Level 100
 * Trinkets cannot be traded.
 * They can be destroyed into fragments and essence.
 * Trinket fragments can be traded or purchased in the market place and token store.
