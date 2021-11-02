@@ -10,7 +10,7 @@
 
 * ~[Inventory](inventory.md)~
   * [Trinkets](inventory/trinkets.md)
-  * ~[Runes](inventory/runes.md)~
+  * [Runes](inventory/runes.md)
   * ~[Jewels](inventory/jewels.md)~
 * ~[Market](market.md)~
   * [Token Store](market/tokenstore.md)
