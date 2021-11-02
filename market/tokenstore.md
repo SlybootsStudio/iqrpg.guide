@@ -2,9 +2,22 @@
 
 ## Boss Tokens
 
+
+
 ### Acquiring
 
 You get boss tokens only from fighting global bosses (appearing in the right-hand column). After 100,000 total boss damage you'll start to earn tokens. You get 1 token for a miss, and multiple tokens for a hit (depending on total boss damage).
+
+| Total Boss Damage | Boss Tokens
+| ----------------- | -----------
+| < 100,000 | 0 
+| < 10m | 2
+| 10m+ | 3 
+| 50m+ | 4 
+| 125m+ | 5 
+| 250m+ | 6 
+| 500m+ | 7 
+| 1b+ | 8 
 
 ### Redeeming Tokens
 
