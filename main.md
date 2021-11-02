@@ -8,22 +8,18 @@ Welcome to **IQRPG Guide**, the unofficial help site for [Idle Quest RPG](https:
 
 Watch on youtube for full chapter list.
 
-
-
 ## Community
 
 [Discord](https://discord.gg/trm2zNB)
-
 
 ### Disclaimer
 
 This site is not associated with IQRPG, or Carl McKie. It is maintained independently by players, and we give a huge thanks to our contributors.
 
-
 ## Contributors
+
 - Tempest
 - Kalesaur
 - DucktorLarsen
 - Evelyn
 - smbisme
-
