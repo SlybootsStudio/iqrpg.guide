@@ -22,9 +22,9 @@
   * ~[Alchemy](crafting/alchemy.md)~
 * ~[Clans](clans.md)~
 * [Land](land.md)
-  * ~[Personnel](land/personnel.md)~
+  * [Personnel](land/personnel.md)
   * [Raids](land/raids.md)
-  * ~[Portal](land/portal.md)~
+  * [Portal](land/portal.md)
 
 <hr>
 
