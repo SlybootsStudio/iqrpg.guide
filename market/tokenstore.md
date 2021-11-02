@@ -37,8 +37,9 @@ You get boss tokens only from fighting global bosses (appearing in the right-han
 | --- | ----
 | 1st | Free
 | 2nd | 1,100
-| 3rd | 55,000
-| 4th | 275,000
+| 3rd | 12,000
+| 4th | 55,000
+| 5th | 275,000
 
 ### Ruby
 

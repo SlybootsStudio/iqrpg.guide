@@ -1,7 +1,7 @@
 # Tools
 
-| Level | Tool | Comp | Total
-| ---- | ---- | ---- | ---- |
+| Level | Tool Components | Total
+| ---- | ---- | ---- |
 | 1 | 0 | 0
 | 2 | 10 | 10
 | 3 | 30 | 40
