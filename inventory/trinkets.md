@@ -24,5 +24,6 @@ Players who battle and gather will want to remember to switch their trinkets whe
 
 ## Related
 
-Personnel > Treasure Hunter
-Land > Trinket Drop Chance
+`Personnel` > `Treasure Hunter`
+
+`Land` > `Trinket Drop Chance`

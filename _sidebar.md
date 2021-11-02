@@ -9,7 +9,7 @@
 <hr>
 
 * ~[Inventory](inventory.md)~
-  * ~[Trinkets](inventory/trinkets.md)~
+  * [Trinkets](inventory/trinkets.md)
   * ~[Runes](inventory/runes.md)~
   * ~[Jewels](inventory/jewels.md)~
 * ~[Market](market.md)~
