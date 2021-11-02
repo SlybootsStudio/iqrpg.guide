@@ -44,5 +44,5 @@
 <hr>
 
 * [Premium](premium.md)
-* ~[FAQ](faq.md)~
+* [FAQ](faq.md)
 * ~[Userscripts](userscripts.md)~
