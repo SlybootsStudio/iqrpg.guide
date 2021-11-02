@@ -19,7 +19,7 @@ When you purchase a portal level, it can be done in one of three ways:
 
 ## Evaluating upgrade cost
 
-Purchasing levels with all three levels is generally cheaper, but less simple than players who only do battling or a single gathering task. You need to use the market or trade with others.
+Purchasing levels with all three resources is generally cheaper, but less simple than players who only do battling or a single gathering task. You need to use the market or trade with others.
 
 As an example, level 1 purchase requires 7.5m total resources if you use the "three resources" choice. If you just do one resource, it is 8.25m.
 
