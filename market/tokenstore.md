@@ -33,25 +33,33 @@ You get boss tokens only from fighting global bosses (appearing in the right-han
 
 ### Sapphire
 
-* 1st - Free
-* 2nd - 1,100
-* 3rd - 55,000
-* 4th - 275,000
+| Slot |  Dungeoneering Tokens
+| --- | ----
+| 1st | Free
+| 2nd | 1,100
+| 3rd | 55,000
+| 4th | 275,000
 
 ### Ruby
 
-* 1st - 1,000
-* 2nd - 11,000
-* 3rd - 60,000
-* 4th - 300,00
+| Slot |  Dungeoneering Tokens
+| --- | ----
+| 1st | 1,000
+| 2nd | 11,000
+| 3rd | 60,000
+| 4th | 300,00
 
 ### Emerald
 
-* 1st - 10,000
-* 2nd - 65,000
-* 3rd - 325,000	
+| Slot |  Dungeoneering Tokens
+| --- | ----
+| 1st | 10,000
+| 2nd | 65,000
+| 3rd | 325,000	
 
 ### Diamond
 
-* 1st - 50,000
-* 2nd - 350,000
+| Slot |  Dungeoneering Tokens
+| --- | ----
+| 1st | 50,000
+| 2nd | 350,000
