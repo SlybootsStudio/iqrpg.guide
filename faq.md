@@ -29,11 +29,17 @@ Advertise in /trade chat. Do note that clan spaces are expensive. Up your action
 - market. Current market price is about 2m gold each, give or take.
 - \$$$
 
-### How many actions should I buy?
+### How do I get more autos?
 
-Up to you. It depends on how often you refresh actions. The more actions you run each day, the faster you will progress.
+- Buying using creds `premium>autos`
+- Clan
+- Land
 
-Action potions exist — but not profitable for most people.
+### How many autos should I buy?
+
+Up to you. It depends on how often you refresh autos. The more autos you run each day, the faster you will progress.
+
+Auto potions exist — but not profitable for most people.
 
 ### It says 15% component drop chance but I haven’t gotten a single drop!
 
