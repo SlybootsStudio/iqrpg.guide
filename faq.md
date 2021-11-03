@@ -21,7 +21,7 @@ You have to unlock the jewel slot. `market`>`token store`>`jewel slots`
 
 ### How do I join a clan? Why isn't anyone accepting me?
 
-Advertise in /trade chat. Do note that clan spaces are expensive. Up your actions count, income, and clanmanship. Don't give up!
+Advertise in /trade chat. Do note that clan spaces are expensive. Up your actions count and income. Don't give up!
 
 ### How do I get credits?
 
@@ -39,11 +39,13 @@ Action potions exist — but not profitable for most people.
 
 Your actual drop rate is much lower (base of 1/100). A 15% component drop chance means that if you get a drop, there is a 15% chance that drop will be components.
 
-### Best equipment ratio for battlers? (TODO, MIGHT BE WRONG)
+### Best equipment ratio for battlers?
 
-Keep equipment type equal. Early on, keep weapon level equal to armor level. Later on, weapons 10 levels above armor.
+Keep equipment type equal. Early to midgame, keep weapons ~10 levels above armor. Late game, have weapons and armor at equal levels.
 
-As far as how to decide whether to upgrade equipment type or level, no one really knows. Just wing it.
+### How to decide whether to upgrade equipment type or level?
+
+- If the component cost is slightly higher than the gold cost, upgrade type. Otherwise upgrade level.
 
 ### Should I "chop the spirit tree"? "quarry the sinkhole"? "mine the meteorite?”
 
