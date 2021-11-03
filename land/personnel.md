@@ -1,5 +1,8 @@
 # Personnel
 
+## Walkthrough
+
+<iframe width="840" height="472" src="https://www.youtube.com/embed/idnyQeVLdTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Types
 
 ### Scout

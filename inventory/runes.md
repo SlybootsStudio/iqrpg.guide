@@ -6,6 +6,12 @@
 >
 > For gatherers, runes would be a late-game upgrade. They are expensive and you would find less expensive bonuses with jewels or premium boosts. You should focus on premium Drop and Resource boost before Runes.
 
+## Walkthrough
+
+<iframe width="840" height="472" src="https://www.youtube.com/embed/jMCqKWdrOoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Runes Table
+
 | Rune | Attack/Health/Defense | Resource Boost |
 | ---- | --------------------- | -------------- |
 | Training Rune 1 | +10 or 0.5% | -
