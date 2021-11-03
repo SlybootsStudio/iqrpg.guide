@@ -10,6 +10,11 @@
 
 > The market price for (unbound) credits is generally around 2 million gold per credit. You can purchase 75 credits before you reach this point. If you need more credits within the month, you're better off buying them for 2 million each from other players in the market itself.
 
+## Walkthrough
+
+<iframe width="840" height="472" src="https://www.youtube.com/embed/aP0GumhbXcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Cost Table
 
 | Credit | Gold Cost | Total Gold Cost |
 | ------ | ---- | ---------- |

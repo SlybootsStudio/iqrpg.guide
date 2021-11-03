@@ -2,12 +2,13 @@
 
 `Land` &rarr; `Portal`
 
-
-
 > **New Players!** This is considered late-game content.
 
 Portal is primarily for combat players, and considered late-game content, however, gatherers can purchase a access to collect and sell drops.
 
+## Walkthrough
+
+<iframe width="840" height="472" src="https://www.youtube.com/embed/uHkeX1Jx-SM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## How to upgrade 
 
