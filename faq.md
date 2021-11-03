@@ -29,11 +29,17 @@ Advertise in /trade chat. Do note that clan spaces are expensive. Up your action
 - market. Current market price is about 2m gold each, give or take.
 - \$$$
 
-### How many actions should I buy?
+### How do I get more autos?
 
-Up to you. It depends on how often you refresh actions. The more actions you run each day, the faster you will progress.
+- Buying using creds `premium>autos`
+- Clan
+- Land
 
-Action potions exist — but not profitable for most people.
+### How many autos should I buy?
+
+Up to you. It depends on how often you refresh autos. The more autos you run each day, the faster you will progress.
+
+Auto potions exist — but not profitable for most people.
 
 ### It says 15% component drop chance but I haven’t gotten a single drop!
 
@@ -59,6 +65,14 @@ Yes. These events have higher drop rates for tool comps and drops.
 ### What are the rarities?
 
 common ⇒ uncommon ⇒ rare ⇒ epic ⇒ legendary ⇒ mythical
+
+### What is my power level?
+
+The game does not tell you. But you do not need to know it. When battling, aim for 98%-99% win rate. Set it to a mob, clear your Action Tracker, and come back in a few minutes to see your win rate.
+
+You are strong enough to clear a dungeon if you can defeat a mob of similar power level.
+
+- For example, Mountain Dungeon mobs are power level 700. If you are able to defeat skeletal mages (powerlevel 770), you should be OK in the Mountain Dungeon.
 
 ### I can't connect to chat!
 
