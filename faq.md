@@ -8,7 +8,7 @@
 
 - Sell your drops! These include keys, stones, gems, ingredients, and tool/weapon/armor components. As a newbie you will not have much use for them. Obviously if you need the components to improve your main skill then don't sell them.
 - Pay IRL $$$
-- xtrade in from other games.
+- X-trade in from other games.
 - I won't lie to you, the early game is tough. It takes a bit of gold to make more gold. Stick to it and you'll slowly progress. It's an idle game after all. Marathon, not a sprint.
 
 ### Why is this item so expensive?
@@ -31,7 +31,7 @@ Advertise in /trade chat. Do note that clan spaces are expensive. Up your action
 
 ### How many actions should I buy?
 
-Up to you. It depends on how often you refresh actions. In an ideal world, you would have actions running 24/7.
+Up to you. It depends on how often you refresh actions. The more actions you run each day, the faster you will progress.
 
 Action potions exist — but not profitable for most people.
 
@@ -45,7 +45,7 @@ Keep equipment type equal. Early on, keep weapon level equal to armor level. Lat
 
 As far as how to decide whether to upgrade equipment type or level, no one really knows. Just wing it.
 
-### Should I "chop the spirit tree"? "quarry the sinkhole"? "[the third one i can’t remember]?”
+### Should I "chop the spirit tree"? "quarry the sinkhole"? "mine the meteorite?”
 
 Yes. These events have higher drop rates for tool comps and drops.
 
@@ -56,12 +56,12 @@ Yes. These events have higher drop rates for tool comps and drops.
 
 ### What are the rarities?
 
-common ⇒ rare ⇒ epic ⇒ legendary ⇒ mythical
+common ⇒ uncommon ⇒ rare ⇒ epic ⇒ legendary ⇒ mythical
 
 ### I can't connect to chat!
 
 - Are you on the http**S** url?
-  - <https://www.iqrpg.com/game.php>
+    - <https://www.iqrpg.com/game.php>
 - Try a different browser (Firefox, Chrome)
 - Disable adblock
 
@@ -75,4 +75,4 @@ DON’T DO IT. Read the rules. You will be banned.
 
 ### I still have more questions!
 
-Ask in /help chat and someone will respond.
+Ask in /help chat.
