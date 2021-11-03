@@ -66,6 +66,14 @@ Yes. These events have higher drop rates for tool comps and drops.
 
 common ⇒ uncommon ⇒ rare ⇒ epic ⇒ legendary ⇒ mythical
 
+### What is my power level?
+
+The game does not tell you. But you do not need to know it. When battling, aim for 98%-99% win rate. Set it to a mob, clear your Action Tracker, and come back in a few minutes to see your win rate.
+
+You are strong enough to clear a dungeon if you can defeat a mob of similar power level.
+
+- For example, Mountain Dungeon mobs are power level 700. If you are able to defeat skeletal mages (powerlevel 770), you should be OK in the Mountain Dungeon.
+
 ### I can't connect to chat!
 
 - Are you on the http**S** url?
