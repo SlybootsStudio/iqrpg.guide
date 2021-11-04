@@ -66,6 +66,18 @@ Yes. These events have higher drop rates for tool comps and drops.
 
 common ⇒ uncommon ⇒ rare ⇒ epic ⇒ legendary ⇒ mythical
 
+### How do I get trinkets?
+
+Trinkets are random drops. The chance to receive a trinket per action is incredibly small, so don't be dismayed if you aren't getting any. You can increase drop rate/rarities by upgrading your Treasure Hunter (`Land` > `Personnel`). See [Personnel](land/personnel.md) for more info.
+
+### Is my trinket good?
+
+- Battler
+    - Base gold > gold% > attribute > stats
+- Gatherer
+    - Base res > res%
+Trinkets are considered mid-end game investments. So don't worry too much about them if you are new. Just equip whatever trinkets you get and replace them when you find better ones. Because trinkets takeactions to drop, consider upgrading Treasure Hunter a bit. Scout still better because it's a sure return on investment though.
+
 ### What is my power level?
 
 The game does not tell you. But you do not need to know it. When battling, aim for 98%-99% win rate. Set it to a mob, clear your Action Tracker, and come back in a few minutes to see your win rate.
@@ -73,6 +85,15 @@ The game does not tell you. But you do not need to know it. When battling, aim f
 You are strong enough to clear a dungeon if you can defeat a mob of similar power level.
 
 - For example, Mountain Dungeon mobs are power level 700. If you are able to defeat skeletal mages (powerlevel 770), you should be OK in the Mountain Dungeon.
+
+### What does each mining/woodcutting/quarrying level do?
+
+At certain level milestones, you unlock new possible drops. For a detailed droptable, go to the in-game tab `Gathering`, and click on each gathering type.
+
+### What does battling level do?
+
+- Each battling level gives you more hp.
+- "Battling levels over 100 now contribute towards gold gains. Each level has an exponential increase, starting at 0.22% at level 101, rising to 6% at level 120, 23.6% at level 150, 100% at level 200. This is a direct modifier, multiplying gold after all other calculations." ([Update 11](patches/patch11.md))
 
 ### I can't connect to chat!
 
