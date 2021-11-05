@@ -61,7 +61,7 @@ This is already in the [faq](../faq.md), but it is so important I will repeat it
 ## Things you should invest in as a newbie
 
 - Improving your income
-- Scout
+- Scout rarity (scout level isn't as important as rarity)
 - Land 3 at the minimum
 - Some cheap jewels
 - Some cheap runes if you are battler
