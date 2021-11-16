@@ -71,7 +71,7 @@ You get boss tokens only from fighting global bosses (appearing in the right-han
 | --- | ----
 | 1st | 10,000
 | 2nd | 65,000
-| 3rd | 325,000	
+| 3rd | 325,000
 
 ### Diamond
 
