@@ -52,6 +52,15 @@ Keep equipment type equal. Early to midgame, keep weapons ~10 levels above armor
 ### How to decide whether to upgrade equipment type or level?
 
 - If the component cost is slightly higher than the gold cost, upgrade type. Otherwise upgrade level.
+- Basically, weapon 10 levels above armor, and for types just whatever to keep the costs equal-ish
+
+### What is armor cap?
+
+You can only reduce incoming damage to 20%. After that, nothing happens no matter how much more defense/armor you stack.
+
+Armor cap exists because otherwise you'd just go all in on armor and go fight big mobs and be immortal.
+
+You know you've hit armor cap when you upgrade armor and damage you take doesn't seemingly change. (RNG still exists)
 
 ### Should I "chop the spirit tree"? "quarry the sinkhole"? "mine the meteorite?”
 
@@ -95,6 +104,29 @@ At certain level milestones, you unlock new possible drops. For a detailed dropt
 - Each battling level gives you more hp.
 - "Battling levels over 100 now contribute towards gold gains. Each level has an exponential increase, starting at 0.22% at level 101, rising to 6% at level 120, 23.6% at level 150, 100% at level 200. This is a direct modifier, multiplying gold after all other calculations." ([Update 11](patches/patch11.md))
 
+### What does dungeoneering level do?
+
+- At certain level milestones, you unlock new keys into your droptable. See the key page for more details.
+
+### Should I make a clan?
+
+NO. It is expensive to make a clan, and the rewards are hard without many other clanmates contributing. However, it may be worth it if
+
+- no one is taking you in and you are impatient
+- you can afford the credits and understand the cost/reward of clans
+
+### Alchemy tells me "Essence Chance 0.20% (0.000%)". What does the second number mean and why is it red?
+
+That is your level multiplier granted by your alchemy level.
+
+### Trinket drop chance?
+
+Base 1/125000 * Trinket Drop Chance * Drop Boost
+
+### What is max roll for Base Resources on a trinket?
+
+On a blue its 2.5
+
 ### I can't connect to chat!
 
 - Are you on the http**S** url?
@@ -113,3 +145,19 @@ DON’T DO IT. Read the rules. You will be banned.
 ### I still have more questions!
 
 Ask in /help chat.
+
+***
+
+### Misc things to implement, please ignore
+
+1/10k base clanmanship chance
+
+gathering upgrades
+ - res > res rush > exp > double drop > item rarity
+
+Baronet DucktorLarsen: you can do the first 4 pretty equal now, tho the more res/exp boost and higher level you get, the better the first 3 becomes. double drop is only affected by drop boost and nothing else. item rarity I just consider shit
+
+gather premium boosts
+drop over res for quarry, res over drop for the others
+until 100 when drop also shoudl go higher for WoodCut
+in general should be the same level
