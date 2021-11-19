@@ -37,8 +37,8 @@ These are one-use raids, which go away upon completion or cancellation. They are
 | Gem Merchant | Small City (8) | 3 | Gem Fragments, Gems
 | Stone Merchant | City (9) | 3 | Stone, Sandstone, Marble, Malachite
 | Small Bank | Large City (10) | 5 | Gold, Credits
-| Alchemy Hut| Small Kingdom (11) | 6 | Alchemy Components, Golden Eggs
-| Large Bank | Kingdom (12) | 7 | Gold, Credits
+| Master Alchemist's Hut| Small Kingdom (11) | 6 | Alchemy Components, Golden Eggs
+| Large Bank | Kingdom (12) | 6 | Gold, Credits
 
 <span style='color:gold'>Credits</span> were added to the drop tables of raid level 6 onward.
 

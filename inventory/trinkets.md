@@ -39,13 +39,15 @@ Players who battle and gather will want to remember to switch their trinkets whe
 
 | Teir | Rare | Epic | Legendary | Mythic |
 | ---- | ---- | ---- | --------- | ------ |
-| T1 |
-| T2 |
-| T3 |
-| T4 |
-| T5 |
-| T6 |
-| T7 |
+| T2 | 4
+| T3 | 13
+| T4 | 32
+| T5 | 62
+| T6 | 108
+| T7 |  ?
+| T8 |  -
+| T9 |  -
+| T10 | -
 
 
 
