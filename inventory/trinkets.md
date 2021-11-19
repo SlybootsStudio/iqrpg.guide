@@ -4,9 +4,11 @@
 
 You can equip 3 trinkets at a time. There are two types of trinkets, Gathering and Battling.
 
+Players who battle and gather will want to remember to switch their trinkets when they switch their action types.
+
 > **New players!** Trinkets are considered late-game content. Finding great trinkets will take time and expensive to upgrade.
 
-## Acquiring trinkets
+## Finding trinkets
 
 * Battling trinkets drop when battling.
 * Gathering trinkets drop when gathering (mining, woodcutting, quarrying.)
@@ -21,9 +23,32 @@ You can equip 3 trinkets at a time. There are two types of trinkets, Gathering a
 * Trinkets can be rerolled (using fragments and essence).
 * Trinkets can be crafted (using fragments and essence).
 
-## Multiskilling
+## Crafting trinkets
 
 Players who battle and gather will want to remember to switch their trinkets when they switch their action types.
+
+## Destroying trinkets
+
+Players who battle and gather will want to remember to switch their trinkets when they switch their action types.
+
+## Rerolling trinkets
+
+Players who battle and gather will want to remember to switch their trinkets when they switch their action types.
+
+## Upgrading trinkets
+
+| Teir | Rare | Epic | Legendary | Mythic |
+| ---- | ---- | ---- | --------- | ------ |
+| T1 |
+| T2 |
+| T3 |
+| T4 |
+| T5 |
+| T6 |
+| T7 |
+
+
+
 
 ## Related
 

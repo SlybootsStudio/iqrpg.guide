@@ -34,7 +34,7 @@ You get boss tokens only from fighting global bosses (appearing in the right-han
 
 ### Exchanging Boss Tokens for Gold
 
-| Item |Quantity per 5,000 dungeon tokens | Estimated Market Price | Profit per 5,000 dungeon tokens
+| Item |Quantity per 5,000 boss tokens | Estimated Market Price | Profit per 5,000 dungeon tokens
 | ---- | ----------- | ---------------------- | --------------------
 | Runic Leather | 1 | 6m gold | 6m
 | Goblin Cave Key | 25 | 0.5m gold | 12.5m
