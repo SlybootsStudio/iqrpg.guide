@@ -4,7 +4,7 @@
 
 * This has some loud or startling sounds when certain events occur. Often times folks edit the script and set the audio files to more simple beeps.
 
-https://greasyfork.org/en/scripts/390095-iqrpg
+https://greasyfork.org/en/scripts/398028-iqrpg
 
 ## IQRPG Companion
 
