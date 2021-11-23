@@ -1,15 +1,16 @@
-# Battling Guide
+# Battler Guide
 
 ## Quick guide
 
-- Upgrade equipment and boosts
-- Move up mobs
+- Upgrade equipment and boosts.
+- Move up mobs.
 - Repeat.
 
 ## Premium store
 
-- gold > attri/drop > exp > mastery
-- Attri vs drop is depending on how much income/xtrade you have
+- Gold > attri/drop > exp > mastery
+- Attri vs Drop depends on your income/xtrade
+- Max each boost before moving on to the next
 
 ## Attributes
 
@@ -18,7 +19,8 @@
 ## Masteries
 
 - Gold rush >>> Damage > Damage Reduction > Accuracy/Dodge
-- (keep gold rush 100 above others)
+    - (keep gold rush 100 above others)
+- Once you find a clan, clanmanship should be on par with gold rush. Consult with your clan regarding donations, rushes, etc.
 
 ## Equipment ratio
 
@@ -30,31 +32,38 @@ In other words, upgrade types to keep the costs between type/level equal.
 
 ## Trinkets
 
-Base gold > gold boost > attribute boost > stats
+Base gold >>> gold boost > attribute boost > stats
 
 ## Main ways to improve income
 
 ### Simplified gold formula
 
-$\text{gold per action} = \text{base} * (1 + \text{boost}$)
+$\text{gold per action} = \text{base} * \text{boost} * \text{gold from mobs \%}$
 
-Therefore you want to maximize base gold and gold boost.
+Therefore you want to maximize base gold, gold boost, and gold from mobs \%.
+
+### Base gold
+
+- Higher mobs (requires stronger stats)
+    - Equipment
+    - Jewels
+    - Runes
+    - Clan
+    - Health upgrade stones (health/damage)
+- Trinkets
 
 ### Gold boost
 
 - Premium store
+- Trinkets
 - Clan
+
+### Gold from mobs %
+
+This multiplier is actually pretty good once you max premium gold boost.
+
 - Land
 - Heroic pots
-
-### Base gold
-
-Stronger stats = higher mobs
-
-- Higher mobs
-- Equipment
-- Jewels
-- Runes
 
 ### Base gold vs gold boost
 
@@ -67,7 +76,21 @@ Base gold is almost always better than gold boost. You will often have more gold
 
 ***
 
-## Misc FAQ
+## Misc
+
+### Detailed gold formula
+
+> (mob+base) \* (1 + gold boost) \* (1 + gold from mobs)
+
+- where mob is the mob you are fighting
+- base is base gold from trinkets
+- gold boost is premium + trinket + clan
+- gold from mobs is land + heroic
+
+### What does battling level do?
+
+- Each battling level gives you more hp.
+- "Battling levels over 100 now contribute towards gold gains. Each level has an exponential increase, starting at 0.22% at level 101, rising to 6% at level 120, 23.6% at level 150, 100% at level 200. This is a direct modifier, multiplying gold after all other calculations." ([Update 11](patches/patch11.md))
 
 ### What is armor cap?
 
