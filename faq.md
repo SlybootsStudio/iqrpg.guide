@@ -84,7 +84,7 @@ Trinkets are random drops. The chance to receive a trinket per action is incredi
 - Battler
     - Base gold > gold% > attribute > stats
 - Gatherer
-    - Base res > res% > rest TODO
+    - TODO
 Trinkets are considered mid-end game investments. So don't worry too much about them if you are new. Just equip whatever trinkets you get and replace them when you find better ones. Because trinkets takeactions to drop, consider upgrading Treasure Hunter a bit. Scout still better because it's a sure return on investment though.
 
 ### What is my power level?
