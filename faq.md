@@ -145,19 +145,3 @@ DON’T DO IT. Read the rules. You will be banned.
 ### I still have more questions!
 
 Ask in /help chat.
-
-***
-
-### Misc things to implement, please ignore
-
-1/10k base clanmanship chance
-
-gathering upgrades
- - res > res rush > exp > double drop > item rarity
-
-Baronet DucktorLarsen: you can do the first 4 pretty equal now, tho the more res/exp boost and higher level you get, the better the first 3 becomes. double drop is only affected by drop boost and nothing else. item rarity I just consider shit
-
-gather premium boosts
-drop over res for quarry, res over drop for the others
-until 100 when drop also shoudl go higher for WoodCut
-in general should be the same level
