@@ -38,7 +38,7 @@ Base gold >>> gold boost > attribute boost > stats
 
 ### Simplified gold formula
 
-$\text{gold per action} = \text{base} * \text{boost} * \text{gold from mobs \%}$
+> gold per action = base \* boost \* gold from mobs \%
 
 Therefore you want to maximize base gold, gold boost, and gold from mobs \%.
 
@@ -77,6 +77,10 @@ Base gold is almost always better than gold boost. You will often have more gold
 ***
 
 ## Misc
+
+### Strategy
+
+Aim for 99%+ winrate.
 
 ### Detailed gold formula
 

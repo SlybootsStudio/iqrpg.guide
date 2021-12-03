@@ -121,7 +121,7 @@ That is your level multiplier granted by your alchemy level.
 
 ### Trinket drop chance?
 
-Base 1/125000 * Trinket Drop Chance * Drop Boost
+Base 1/125000 \* Trinket Drop Chance \* Drop Boost
 
 ### What is max roll for Base Resources on a trinket?
 
@@ -136,7 +136,7 @@ On a blue its 2.5
 
 ### Are there audio alerts?
 
-https://greasyfork.org/en/scripts/398028-iqrpg
+<https://greasyfork.org/en/scripts/398028-iqrpg>
 
 ### Can I create alts and trade to myself and make more gold?
 
