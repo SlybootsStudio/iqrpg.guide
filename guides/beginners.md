@@ -47,7 +47,7 @@ Now that you've picked your main skill, it's time to progress. Upgrade the follo
 - Gathering: Tool, Gathering level
 - Battling: Equipment
 
-Please visit the [gathering guide](/guides/gatherer.md) or [battling guide](/guides/battler.md). (oops, these aren't written yet.)
+Please visit the [gathering guide](/guides/gatherer.md) or [battling guide](/guides/battler.md) for more info. (oops, gatherer isn't written yet.)
 
 ## Sell your drops
 
@@ -61,11 +61,13 @@ This is already in the [faq](../faq.md), but it is so important I will repeat it
 ## Things you should invest in as a newbie
 
 - Improving your income
-- Scout rarity (scout level isn't as important as rarity)
 - Land 3 at the minimum
 - Some cheap jewels
-- Some cheap runes if you are battler
+- Some cheap runes especially if you are battler
+- Buying 70-75 black market credits each month (since it resets monthly)
 - Join a clan
+- Scout rarity (scout level isn't as important as rarity)
+
 
 ## Things you should AVOID as a newbie
 
