@@ -4,7 +4,24 @@
 
 <hr>
 
-* [Patches](patches.md)
+* Guides
+  * [Walkthrough](guides/walkthrough.md)
+  * [Beginners](guides/beginners.md)
+  * [Battler](guides/battler.md)
+  * [Gatherer](guides/gatherer.md)
+
+<hr>
+
+* Battling
+
+<hr>
+
+* Gathering
+  * [Tools](gathering/tools.md)
+  * [Gathering Upgrade](gathering/gatheringupgrade.md)
+  * [Skill Shards](gathering/shards.md)
+
+
 
 <hr>
 
@@ -28,21 +45,7 @@
 
 <hr>
 
-* Gathering
-  * [Tools](gathering/tools.md)
-  * [Gathering Upgrade](gathering/gatheringupgrade.md)
-  * [Skill Shards](gathering/shards.md)
-
-<hr>
-
-* Guides
-  * [Walkthrough](guides/walkthrough.md)
-  * [Beginners](guides/beginners.md)
-  * [Battler](guides/battler.md)
-  * [Gatherer](guides/gatherer.md)
-
-<hr>
-
+* [Patches](patches.md)
 * [Premium](premium.md)
 * [FAQ](faq.md)
 * [Userscripts](userscripts.md)
