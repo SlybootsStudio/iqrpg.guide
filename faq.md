@@ -82,9 +82,10 @@ Trinkets are random drops. The chance to receive a trinket per action is incredi
 ### Is my trinket good?
 
 - Battler
-    - Base gold > gold% > attribute > stats
+    - Base gold >>> gold% > attribute > stats
 - Gatherer
-    - TODO
+    - Base res >>> res boost = drop > exp > double drop > mastery > rarity
+
 Trinkets are considered mid-end game investments. So don't worry too much about them if you are new. Just equip whatever trinkets you get and replace them when you find better ones. Because trinkets takeactions to drop, consider upgrading Treasure Hunter a bit. Scout still better because it's a sure return on investment though.
 
 ### What is my power level?
