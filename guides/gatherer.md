@@ -28,7 +28,7 @@ If not noob, then pick one of these. Both are good.
 
 ## Trinkets
 
-Base res >>> res boost > exp > double drop > mastery > rarity
+- Base res >>> res boost = drop > exp > double drop > mastery > rarity
 
 ## Main ways to improve income
 
