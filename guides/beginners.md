@@ -4,6 +4,8 @@ Welcome to Idle Quest RPG (IQRPG)!
 
 This guide serves to direct new players in the right direction. This is a work in progress and more info will be gradually added.
 
+If you want to get a good understanding of the game's mechanics/ui, please watch the [walkthrough](walkthrough.md) first.
+
 ## Quick guide
 
 1. Choose a main skill and stick with it.
@@ -35,7 +37,6 @@ This guide serves to direct new players in the right direction. This is a work i
 - **Quarrying** drops stones. These can be crafted into runes.
 - **Battling** has less drops than the other skills. It compensates by generating gold directly, and arguably scales better than the others in the long-term.
 
-
 You might also want to check market prices to see which resource/drop is worth the most (`sapphires`, `tree saps`, `sandstone`, etc.). Prices fluctuate though.
 
 > **Once again, all 4 skills are pretty balanced. Just pick one and stick to it.**
@@ -47,7 +48,7 @@ Now that you've picked your main skill, it's time to progress. Upgrade the follo
 - Gathering: Tool, Gathering level
 - Battling: Equipment
 
-Please visit the [gathering guide](/guides/gatherer.md) or [battling guide](/guides/battler.md) for more info. (oops, gatherer isn't written yet.)
+Please visit the [gathering guide](/guides/gatherer.md) or [battling guide](/guides/battler.md) for more info.
 
 ## Sell your drops
 
@@ -68,7 +69,6 @@ This is already in the [faq](../faq.md), but it is so important I will repeat it
 - Join a clan
 - Scout rarity (scout level isn't as important as rarity)
 
-
 ## Things you should AVOID as a newbie
 
 These are only worth for late-gamers. NEWBIES AVOID:
@@ -77,4 +77,4 @@ These are only worth for late-gamers. NEWBIES AVOID:
 - Quartermaster / The Abyss / Portal
 - Upgrade stones
 - Heroic pots (unless you've invested into premium boosts already)
-- Pushing dungeons endlessly without improving your income first. Especially because noobs should sell keys instead of using them.
+- Pushing dungeons endlessly without improving your income first. Especially because noobs should sell keys instead of using them. Once you are less noob, getting to the first few cheap dungeon level milestones might be nice to add them to your droptable.
