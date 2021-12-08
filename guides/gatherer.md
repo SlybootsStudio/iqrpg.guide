@@ -18,17 +18,17 @@ If noob:
 
 If not noob, then pick one of these. Both are good.
 
-- res% = exp > res rush > double drop > rarity
-- res% > exp = res rush > double drop > rarity
+- res% = exp > res rush > double drop > rarity (evelyn)
+- res% > exp = res rush > double drop > rarity (ducktorlarsen)
 
 ## Masteries
 
 - Gathering equal with [mining OR woodcut OR quarry]
-- Once you find a clan, clanmanship should be on par with gathering. Assuming you're not in a dead clan. Consult with your clan regarding donations, rushes, etc.
+- Once you find a clan, clanmanship should be on par with gathering. Assuming you are not in a dead clan. Consult with your clan regarding donations, rushes, etc.
 
 ## Trinkets
 
-Exp > double drop > mastery > rarity
+Base res >>> res boost > exp > double drop > mastery > rarity
 
 ## Main ways to improve income
 
