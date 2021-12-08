@@ -8,8 +8,8 @@
 
 ## Premium store
 
-- Gold > attri/drop > exp > mastery
-- Attri vs Drop depends on your income/xtrade
+- Gold > attribute/drop > exp > mastery
+- Attribute vs Drop first depends on your income/xtrade
 - Max each boost before moving on to the next
 
 ## Attributes
@@ -34,13 +34,15 @@ In other words, upgrade types to keep the costs between type/level equal.
 
 Base gold >>> gold boost > attribute boost > stats
 
+Until you get good base golds (max on blue is +8), just use whatever trinkets you get.
+
 ## Main ways to improve income
 
 ### Simplified gold formula
 
 > gold per action = base \* boost \* gold from mobs \%
 
-Therefore you want to maximize base gold, gold boost, and gold from mobs \%.
+Therefore you want to maximize `base gold`, `gold boost`, and `gold from mobs %`.
 
 ### Base gold
 
@@ -49,7 +51,7 @@ Therefore you want to maximize base gold, gold boost, and gold from mobs \%.
     - Jewels
     - Runes
     - Clan
-    - Health upgrade stones (health/damage)
+    - Upgrade stones (health/damage)
 - Trinkets
 
 ### Gold boost
@@ -65,9 +67,9 @@ This multiplier is actually pretty good once you max premium gold boost.
 - Land
 - Heroic pots
 
-### Base gold vs gold boost
+### Base Gold vs Gold Boost
 
-Base gold is almost always better than gold boost. You will often have more gold boost than base gold, which means that an increase to base gold will boost your income more.
+Base gold is almost always better than gold boost. You will often have more gold boost than base gold, which means that an increase to base gold will increase your income more.
 
 - For example, let's say I have `100 base gold`, and `200% gold boost`. That means my gold/action is `300`.
 - If I increase **base gold** by `1`, then my gold/action increases to `303`.
