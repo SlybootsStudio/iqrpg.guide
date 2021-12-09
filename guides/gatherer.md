@@ -32,17 +32,40 @@ If not noob, then pick one of these. Both are good.
 
 ## Main ways to improve income
 
+
+### Simplified res formula
+
+> res per action = (base res) \* (res boost) \* (other boost)
+
+Therefore you want to maximize `base res`, `res boost`, and `other boost`.
+
+### Base res
+
+- Tool
+
 ### Resource boost
 
-- TOOL
 - Premium store
+- Trinkets
+- Clan
+
+### Other boost
+
+- Tool
 - Jewels
 - Runes
-- Trinkets
 - Land
-- Clan
 - Heroic pots
+- Skill shards
 
 ### Base res vs res boost
 
-Base res is almost always better than res boost. You will often have more res boost than base res, which means that an increase to base res will boost your income more.
+Base res is always better than res boost. You will have more res boost than base res, which means that an increase to base res will boost your income more.
+
+***
+
+### Detailed res formula
+
+> (Base + Base Resources) \* (Tool + Skill Shard + Heroic + Land + Jewels + Runes) \* (Premium + Clan + Trinket) \* Global
+
+- Gathering pot is part of premium. Do the math and only use if profitable for you.
