@@ -1,5 +1,7 @@
 # Beginner's Guide
 
+by Kalesaur
+
 Welcome to Idle Quest RPG (IQRPG)!
 
 This guide serves to direct new players in the right direction. This is a work in progress and more info will be gradually added.

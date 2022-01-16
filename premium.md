@@ -1,12 +1,9 @@
 # Premium
 
-## Purchase Credits
+<!-- ## Purchase Credits -->
 
---
+<!-- ## Boosts -->
 
-## Boosts
-
---
 
 ## Autos
 

@@ -10,9 +10,9 @@
   * [Battler](guides/battler.md)
   * [Gatherer](guides/gatherer.md)
 
-<hr>
+<!-- <hr> -->
 
-* Battling
+<!-- * Battling  -->
 
 <hr>
 
@@ -25,19 +25,20 @@
 
 <hr>
 
-* [Inventory](inventory.md)
+* Inventory
   * [Trinkets](inventory/trinkets.md)
   * [Runes](inventory/runes.md)
-  * [Jewels](inventory/jewels.md)
+<!--  * [Jewels](inventory/jewels.md) -->
 * [Market](market.md)
   * [Token Store](market/tokenstore.md)
   * [Black Market](market/blackmarket.md)
 * [Dungeons](dungeons.md)
-* Crafting
-  * [Runecrafting](crafting/runecrafting.md)
-  * [Jewelcrafting](crafting/jewelcrafting.md)
-  * [Alchemy](crafting/alchemy.md)
-* [Clans](clans.md)
+
+<!-- * Crafting -->
+<!-- * [Runecrafting](crafting/runecrafting.md) -->
+<!-- * [Jewelcrafting](crafting/jewelcrafting.md) -->
+<!-- * [Alchemy](crafting/alchemy.md) -->
+<!-- * [Clans](clans.md) -->
 * [Land](land.md)
   * [Personnel](land/personnel.md)
   * [Raids](land/raids.md)

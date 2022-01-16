@@ -38,7 +38,6 @@ Rune Belt determines how many runes you can have equipped at the moment. You use
 | 4 | 25
 | 5 | 125
 
-## Related
+<!-- ## Related -->
 
-Crafting > [Runecrafting](crafting/runecrafting.md)
-
+<!-- Crafting > [Runecrafting](crafting/runecrafting.md) -->

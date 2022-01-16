@@ -1,5 +1,7 @@
 # Battler Guide
 
+by Kalesaur
+
 ## Quick guide
 
 - Upgrade equipment and boosts.
