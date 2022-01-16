@@ -2,8 +2,6 @@
 
 Dungeons are a way to gain certain types of resources in bulk. The type of dungeons you can enter depends on two factors, your dungeoneering level and if you have a key for that specific dungeon.
 
-> **New players!** Dungeons are not important in the beginning. Instead, sell the keys to then buy items you need for upgrades.
-
 ## Dungeon Types
 
 A general overview of all dungeons in the game.

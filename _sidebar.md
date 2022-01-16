@@ -18,8 +18,8 @@
 
 * Gathering
   * [Tools](gathering/tools.md)
-  * [Gathering Upgrade](gathering/gatheringupgrade.md)
-  * [Skill Shards](gathering/shards.md)
+<!-- * [Gathering Upgrade](gathering/gatheringupgrade.md) -->
+<!-- * [Skill Shards](gathering/shards.md) -->
 
 
 
