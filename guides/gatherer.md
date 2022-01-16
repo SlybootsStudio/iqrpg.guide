@@ -1,5 +1,7 @@
 # Gatherer Guide
 
+by Kalesaur
+
 ## Quick guide
 
 - Upgrade tool and boosts.

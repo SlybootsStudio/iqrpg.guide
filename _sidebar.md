@@ -29,7 +29,7 @@
   * [Trinkets](inventory/trinkets.md)
   * [Runes](inventory/runes.md)
 <!--  * [Jewels](inventory/jewels.md) -->
-* [Market](market.md)
+* Market
   * [Token Store](market/tokenstore.md)
   * [Black Market](market/blackmarket.md)
 * [Dungeons](dungeons.md)
