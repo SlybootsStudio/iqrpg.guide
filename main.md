@@ -21,6 +21,8 @@ Advice on this site is given by me, Tempest, unless otherwise stated. I am not a
 
 This site is not associated with IQRPG, or Carl McKie. It is maintained independently by players, and we give a huge thanks to our contributors.
 
+ᴏ˚◦ If incomplete content upsets you, or efforts to assist new players offends you, you are encouraged to avoid this site. ◦˚ᴏ
+
 ## Contributors
 
 - Tempest
