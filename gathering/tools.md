@@ -1,7 +1,7 @@
 # Tools
 
 
-[cinwell website](https://slyboots.studio/iqrpg-tools-calculator/ ':include :type=iframe width=100% height=500px frameBorder=0')
+[Tools Calculator](https://slyboots.studio/iqrpg-tools-calculator/ ':include :type=iframe width=100% height=500px frameBorder=0')
 
 | Level | Tool Components | Total
 | ---- | ---- | ---- |
