@@ -14,8 +14,8 @@ Advice on this site is given by me, Tempest, unless otherwise stated. I am not a
 
 ## Links
 
-[Discord](https://discord.gg/trm2zNB)
-[Test Server](https://test.iqrpg.com)
+* [Discord](https://discord.gg/trm2zNB)
+* [Test Server](https://test.iqrpg.com)
 
 ### Disclaimer
 
