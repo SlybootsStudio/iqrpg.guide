@@ -61,6 +61,26 @@ A general overview of all dungeons in the game.
 | <span style='color:#55f'>Vial of Orc Blood</span> | 1 | 1.4%
 | <span style='color:#ff0'>Runic Leather</span> | 1 | 0.1%
 
+### Dragonkin Lair
+
+- **Dungeoneering Level Requirement:** 75
+- **Mob Power Level:** 12,500
+- **Key Needed:** 1x Dragonkin Lair Key
+- **Rarity Type:** <span style='color:#2f2'>Uncommon</span>
+
+#### Potential Loot
+
+| Item Name | Amount | Frequency |
+| ---- | --------------------- | -------------- |
+| <span style='color:#2f2'>Weapon Component</span> | 3 | 25%
+| <span style='color:#2f2'>Armor Component</span> | 3 | 25%
+| <span style='color:#2f2'>Tool Component</span> | 3 | 25%
+| <span style='color:#2f2'>Bone Meal</span> | 2 | 19%
+| <span style='color:#55f'>Undead Heart</span> | 1 | 4%
+| <span style='color:#55f'>Vial of Orc Blood</span> | 1 | 1.6%
+| <span style='color:#ff0'>Runic Leather</span> | 1 | 0.2%
+| <span style='color:#ff0'>Demonic Dust</span> | 1 | 0.2%
+
 ### Abandoned Tower
 
 - **Dungeoneering Level Requirement:** 25
@@ -96,6 +116,25 @@ A general overview of all dungeons in the game.
 | <span style='color:#2f2'>Bone Meal</span> | 5 | 10%
 | <span style='color:#55f'>Undead Heart</span> | 1 | 9%
 | <span style='color:#ff0'>Runic Leather</span> | 1 | 1%
+
+### Hall of Dragons
+
+- **Dungeoneering Level Requirement:** 75
+- **Mob Power Level:** 12,500
+- **Key Needed:** 1x Hall of Dragons Key
+- **Rarity Type:** <span style='color:#55f'>Rare</span>
+
+#### Potential Loot
+
+| Item Name | Amount | Frequency |
+| ---- | --------------------- | -------------- |
+| <span style='color:#2f2'>Weapon Component</span> | 5 | 26%
+| <span style='color:#2f2'>Armor Component</span> | 5 | 26%
+| <span style='color:#2f2'>Tool Component</span> | 5 | 26%
+| <span style='color:#55f'>Undead Heart</span> | 2 | 12%
+| <span style='color:#55f'>Vial of Orc Blood</span> | 1 | 7.6%
+| <span style='color:#ff0'>Runic Leather</span> | 1 | 1.2%
+| <span style='color:#ff0'>Demonic Dust</span> | 1 | 1.2%
 
 ### The Vault
 
