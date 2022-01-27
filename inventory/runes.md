@@ -37,6 +37,20 @@ Rune Belt determines how many runes you can have equipped at the moment. You use
 | 3 | 5
 | 4 | 25
 | 5 | 125
+| 6 | 375
+
+
+## Runecrafting Skill Bonus
+
+Your runecrafting level will give a boost to the buff on your runes. The runes do not need to be self-crafted to get this boost. The boost applies to all stats, including the resource.
+
+| Level | Boost
+| ---- | ------
+| 60 | 5%
+| 80 | 10%
+| 100 | 15%
+| 120 | 20%
+| 140 | 25%
 
 <!-- ## Related -->
 
