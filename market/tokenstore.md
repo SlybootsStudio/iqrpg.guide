@@ -1,8 +1,14 @@
 # Token Store
 
+> Patch 10 made changes to the token store and dungeoneering tokens. The 6th Rune slot was added, which created renewed demand for Runic Leather, the price of which was drastically reduced in the token store. Acquisition of boss tokens was also changed to be more favorable to help support this change.
+>
+> As of 1/26/2021, the Runic Leather cost should be considered unstable, as the patch was just released on this day and the market remains unsettled.
+
 ## Walkthrough
 
 <iframe width="840" height="472" src="https://www.youtube.com/embed/JvlgmSEKuYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> This video is currently outdated and will be re-recorded.
 
 ## Boss Tokens
 
@@ -12,39 +18,43 @@ You get boss tokens only from fighting global bosses (appearing in the right-han
 
 | Total Boss Damage | Boss Tokens
 | ----------------- | -----------
-| < 100,000 | 0 
+| < 100,000 | 0
 | < 10m | 2
-| 10m+ | 3 
-| 50m+ | 4 
-| 125m+ | 5 
-| 250m+ | 6 
-| 500m+ | 7 
-| 1b+ | 8 
+| 10m+ | 3
+| 50m+ | 4
+| 100m+ | 5
+| 200m+ | 6
+| 400m+ | 7
+| 700m+ | 8
+| 1b+ | 9
 
 ### Redeeming Tokens
 
+I've listed different prices of **Runic Leather** to help demonstrate the different values, depending on where the market values the item.
+
 | Item | Boss Tokens | Estimated Market Price | Gold per boss token
 | ---- | ----------- | ---------------------- | --------------------
-| Runic Leather | 5,000 | 6,000,000 gold | 1,200
-| Goblin Cave Key | 200 | 500,000 gold | 2,500
-| Vial of Orc Blood | 250 | 2,400,000 gold | 9,600
-| Trinket Fragment | 5,000 | 4,000,000 gold | 800
+| Runic Leather | 2,000 | 10m gold | 5,000
+| Runic Leather | 2,000 | 15m gold | 7,500
+| Runic Leather | 2,000 | 20m gold | 10,000
+| Vial of Orc Blood | 250 | 2,2m gold | 8,800
 
-> **New Players!** To get the best return on your boss tokens, you want to exchange them for items you can sell for a high gold-to-boss ratio. Using the data above, if you needed a Runic Leather, it'd be a lot more affordable for you to use tokens for Orc Blood, sell it on the market, then buy Leather off the market.
 
 ### Exchanging Boss Tokens for Gold
 
-| Item |Quantity per 5,000 boss tokens | Estimated Market Price | Profit per 5,000 dungeon tokens
+| Item | Quantity per 2K tokens | Estimated Market Price | Profit per 2K tokens
 | ---- | ----------- | ---------------------- | --------------------
-| Runic Leather | 1 | 6m gold | 6m
-| Goblin Cave Key | 25 | 0.5m gold | 12.5m
-| Vial of Orc Blood | 20 | 2.4m gold | 40.8m
-| Trinket Fragment | 1 | 4m gold | 4m
+| Runic Leather | 1 | 15m gold | 15m
+| Vial of Orc Blood | 8 | 2.2m gold | 17.6m
 
 
 ## Jewel Slots
 
 `Dungeoneering Tokens` from completing [Dungeons](#dungeons.md).
+
+> **New players** Dungeon Keys can be a good source of gold income early on, but they are also a good source of tool, weapon, and armor components as well as alchemy ingredients. Most importantly, they are your **only** source of `dungeoneering tokens` which you need for jewel slots. Gatherers and battlers benefit from jewels.
+>
+> Using dungeon keys is also the only way to raise your dungeoneering level which unlocks more valuable types of keys.
 
 ### Sapphire
 
