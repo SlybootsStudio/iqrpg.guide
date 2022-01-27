@@ -25,9 +25,9 @@ This web site is maintained independently by players, and we give a huge thanks 
 
 This project is open-source and welcome contributors. Reach out to Tempest in-game or Discord for details.
 
-- Tempest
-- Kalesaur
-- DucktorLarsen
-- Evelyn
-- smbisme
-- Rynzaii
+* Tempest
+* Kalesaur
+* DucktorLarsen
+* Evelyn
+* smbisme
+* Rynzaii
