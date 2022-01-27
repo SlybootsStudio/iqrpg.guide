@@ -8,7 +8,10 @@
 * Bound credits can be spent on Premium boosts, autos, and Personnel rarity upgrades.
 * Bound credits cannot be donated to the clan, traded, or sold.
 
-> The market price for (unbound) credits is generally around 2 million gold per credit. You can purchase 75 credits before you reach this point. If you need more credits within the month, you're better off buying them for 2 million each from other players in the market itself.
+> The market price for (unbound) credits is generally between 1.7m to 2m gold per credit. You can purchase 70 to 75 credits before you reach this point. If you need more credits within the month, you're better off buying them from the regular market (currency category).
+
+![image](https://user-images.githubusercontent.com/267296/151312550-6c69adf4-2537-4d84-aeec-61208a79fa9d.png)
+
 
 ## Walkthrough
 
