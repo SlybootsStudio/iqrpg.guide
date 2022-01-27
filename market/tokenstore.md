@@ -1,6 +1,6 @@
 # Token Store
 
-> Patch 10 made changes to the token store and dungeoneering tokens. The 6th Rune slot was added, which created renewed demand for Runic Leather, the price of which was drastically reduced in the token store. Acquisition of boss tokens was also changed to be more favorable to help support this change.
+> Patch 12 made changes to the token store and dungeoneering tokens. The 6th Rune slot was added, which created renewed demand for Runic Leather, the price of which was drastically reduced in the token store. Acquisition of boss tokens was also changed to be more favorable to help support this change.
 >
 > As of 1/26/2021, the Runic Leather cost should be considered unstable, as the patch was just released on this day and the market remains unsettled.
 
