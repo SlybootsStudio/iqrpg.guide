@@ -47,7 +47,7 @@ You'll see a modal with details about your current level and the cost to upgrade
 | 22 | 65,000 | 362,000
 | 23 | 77,000 | 439,000
 | 24 | 91,000 | 530,000
-| 25 | (tba) |
+| 25 | 107,000 | 637,000
 | 26 | (tba) |
 
 Level 26 is the maximum level currently.
