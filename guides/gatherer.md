@@ -37,7 +37,7 @@ If not noob, then pick one of these. Both are good.
 
 ### Simplified res formula
 
-> res per action = (base res) \* (res boost) \* (other boost)
+> res per action = (base res) \* (res boost)  \* (land and heroic boost) \* (other boost)
 
 Therefore you want to maximize `base res`, `res boost`, and `other boost`.
 
@@ -56,8 +56,6 @@ Therefore you want to maximize `base res`, `res boost`, and `other boost`.
 - Tool
 - Jewels
 - Runes
-- Land
-- Heroic pots
 - Skill shards
 
 ### Base res vs res boost
