@@ -1,8 +1,8 @@
 # FAQ
 
-### How do I get XXX?
+### How do I get <item>?
 
-`market`.
+The `market` is going to be a reliable answer for 95% of items. The only thing you can't get from the market is trinkets and trinket essence.
 
 ### How do I make more gold?
 
@@ -17,11 +17,12 @@ If you are patient, set up a buy order instead of immediately buying it at its s
 
 ### Why can’t I equip this jewel?
 
+    
 You have to unlock the jewel slot. `market`>`token store`>`jewel slots`
 
 ### How do I join a clan? Why isn't anyone accepting me?
 
-Advertise in /trade chat. Do note that clan spaces are expensive. Up your actions count and income. Don't give up!
+Advertise in `trade` chat. Clan membership slots are expensive, so clans are looking for active players who are progressing their characters. It isn't uncommon for days, or even weeks, before clan membership becomes available.
 
 ### How do I get credits?
 
@@ -41,8 +42,9 @@ Up to you. It depends on how often you refresh autos. The more autos you run eac
 
 Auto potions exist — but not profitable for most people.
 
-### It says 15% component drop chance but I haven’t gotten a single drop!
+### The Sewer combat area says says 15% component drop chance but I haven’t gotten a single drop!
 
+The base drop rate is 1 per 100 action for a `drop` to occur. 
 Your actual drop rate is much lower (base of 1/100). A 15% component drop chance means that if you get a drop, there is a 15% chance that drop will be components.
 
 ### Best equipment ratio for battlers?
@@ -74,6 +76,13 @@ Yes. These events have higher drop rates for tool comps and drops.
 ### What are the rarities?
 
 common ⇒ uncommon ⇒ rare ⇒ epic ⇒ legendary ⇒ mythical
+    
+<span style='color:white'>Common</span> ⇒ 
+<span style='color:#2f2'>Uncommon</span> ⇒ 
+<span style='color:#55f'>Rare</span> ⇒ 
+<span style='color:#ff0'>Epic</span> ⇒ 
+<span style='color:#f70'>Legendary</span> ⇒ 
+<span style='color:red'>Mythic</span> 
 
 ### How do I get trinkets?
 
