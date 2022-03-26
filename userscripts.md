@@ -6,7 +6,27 @@
 
 ## Audio Script
 
-### [Audio (v0.1.7)](https://greasyfork.org/en/scripts/398028-iqrpg)
+### [IQRPG+ (v0.1.7)](https://greasyfork.org/en/scripts/398028-iqrpg)
+
+#### Required script editing
+
+The game previously ran at `game.php`, but now runs at `game.html`, and you'll need to edit the script at lines 7 to 10.
+
+```javascript
+// @match        http://iqrpg.com/game.php
+// @match        https://iqrpg.com/game.php
+// @match        http://www.iqrpg.com/game.php
+// @match        https://www.iqrpg.com/game.php
+```
+
+```javascript
+// @match        http://iqrpg.com/game.html
+// @match        https://iqrpg.com/game.html
+// @match        http://www.iqrpg.com/game.html
+// @match        https://www.iqrpg.com/game.html
+```
+
+#### Adjusting Volume
 
 This has some loud or startling sounds when certain events occur. Often times folks edit the script and set the audio files to more simple beeps.
 
@@ -15,11 +35,6 @@ Go into the code and you can set audio between 0 and 1 line 27,
 ```javascript
 var masterAudioLevel = .3;
 ```
-
-### [Boring Beeps](https://greasyfork.org/en/scripts/437927-iqrpg-boring-beeps)
-
-A safer-for-work version of the above audio script.
-
 
 ## UI Scripts
 
