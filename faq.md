@@ -74,8 +74,6 @@ Yes. These events have higher drop rates for tool comps and drops.
 - Or double click on their name in chat and click “send items”.
 
 ### What are the rarities?
-
-common ⇒ uncommon ⇒ rare ⇒ epic ⇒ legendary ⇒ mythical
     
 <span style='color:white'>Common</span> ⇒ 
 <span style='color:#2f2'>Uncommon</span> ⇒ 
@@ -120,10 +118,7 @@ At certain level milestones, you unlock new possible drops. For a detailed dropt
 
 ### Should I make a clan?
 
-NO. It is expensive to make a clan, and the rewards are hard without many other clanmates contributing. However, it may be worth it if
-
-- no one is taking you in and you are impatient
-- you can afford the credits and understand the cost/reward of clans
+This isn't something a new player should consider. New clans do pop up from time to time, but often when you become familiar with the game and other players. If you're willing to invest heavily into making a clan though, that is usually a good way to get the attention of an existing clan for why they should recruit you.
 
 ### Alchemy tells me "Essence Chance 0.20% (0.000%)". What does the second number mean and why is it red?
 
@@ -146,7 +141,7 @@ On a blue its 2.5
 
 ### Are there audio alerts?
 
-<https://greasyfork.org/en/scripts/398028-iqrpg>
+See our [Userscripts](userscripts.md)
 
 ### Can I create alts and trade to myself and make more gold?
 
