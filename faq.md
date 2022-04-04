@@ -1,8 +1,8 @@
 # FAQ
 
-### How do I get XXX?
+### How do I get <item>?
 
-`market`.
+The `market` is going to be a reliable answer for 95% of items. The only thing you can't get from the market is trinkets and trinket essence.
 
 ### How do I make more gold?
 
@@ -17,11 +17,12 @@ If you are patient, set up a buy order instead of immediately buying it at its s
 
 ### Why can’t I equip this jewel?
 
+    
 You have to unlock the jewel slot. `market`>`token store`>`jewel slots`
 
 ### How do I join a clan? Why isn't anyone accepting me?
 
-Advertise in /trade chat. Do note that clan spaces are expensive. Up your actions count and income. Don't give up!
+Advertise in `trade` chat. Clan membership slots are expensive, so clans are looking for active players who are progressing their characters. It isn't uncommon for days, or even weeks, before clan membership becomes available.
 
 ### How do I get credits?
 
@@ -41,8 +42,9 @@ Up to you. It depends on how often you refresh autos. The more autos you run eac
 
 Auto potions exist — but not profitable for most people.
 
-### It says 15% component drop chance but I haven’t gotten a single drop!
+### The Sewer combat area says says 15% component drop chance but I haven’t gotten a single drop!
 
+The base drop rate is 1 per 100 action for a `drop` to occur. 
 Your actual drop rate is much lower (base of 1/100). A 15% component drop chance means that if you get a drop, there is a 15% chance that drop will be components.
 
 ### Best equipment ratio for battlers?
@@ -72,8 +74,13 @@ Yes. These events have higher drop rates for tool comps and drops.
 - Or double click on their name in chat and click “send items”.
 
 ### What are the rarities?
-
-common ⇒ uncommon ⇒ rare ⇒ epic ⇒ legendary ⇒ mythical
+    
+<span style='color:white'>Common</span> ⇒ 
+<span style='color:#2f2'>Uncommon</span> ⇒ 
+<span style='color:#55f'>Rare</span> ⇒ 
+<span style='color:#ff0'>Epic</span> ⇒ 
+<span style='color:#f70'>Legendary</span> ⇒ 
+<span style='color:red'>Mythic</span> 
 
 ### How do I get trinkets?
 
@@ -111,10 +118,7 @@ At certain level milestones, you unlock new possible drops. For a detailed dropt
 
 ### Should I make a clan?
 
-NO. It is expensive to make a clan, and the rewards are hard without many other clanmates contributing. However, it may be worth it if
-
-- no one is taking you in and you are impatient
-- you can afford the credits and understand the cost/reward of clans
+This isn't something a new player should consider. New clans do pop up from time to time, but often when you become familiar with the game and other players. If you're willing to invest heavily into making a clan though, that is usually a good way to get the attention of an existing clan for why they should recruit you.
 
 ### Alchemy tells me "Essence Chance 0.20% (0.000%)". What does the second number mean and why is it red?
 
@@ -137,7 +141,7 @@ On a blue its 2.5
 
 ### Are there audio alerts?
 
-<https://greasyfork.org/en/scripts/398028-iqrpg>
+See our [Userscripts](userscripts.md)
 
 ### Can I create alts and trade to myself and make more gold?
 
