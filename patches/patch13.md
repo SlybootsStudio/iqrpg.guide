@@ -2,6 +2,11 @@
 
 [Patches](patches.md)
 
+> Original patch notes from Carl had some errors:
+> - Starting at Tool level 15, not 16, you get 6% resources.
+> - Tool upgrade costs were reduced from 400 to 350, and 800 to 750.
+
+
 Gathering
 ---------
 
@@ -14,7 +19,7 @@ Gathering
 - Gem Fragments, Sapphires, Tree Sap and Sandstone now start dropping at level 50.
 - Rubies, Birds Nests and Marble now start dropping at level 60.
 - Gatherers lower than level 50 will now receive a resource drop of 140 + (level * 10).
-- Since newer players will have less income due to the above changes, the costs of the first few tool levels were decreased: Levels 1-6 now cost 5/25/60/150/350/750 down from 10/30/75/175/350/750.
+- Since newer players will have less income due to the above changes, the costs of the first few tool levels were decreased: Levels 1-6 now cost 5/25/60/150/350/750 down from 10/30/75/175/400/800.
 - The maximum level of gathering upgrades was increased to 500.
 
 Items
