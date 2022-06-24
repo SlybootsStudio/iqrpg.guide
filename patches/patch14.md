@@ -2,78 +2,64 @@
 
 [Patches](patches.md)
 
-> Original patch notes from Carl had some errors:
-> - Starting at Tool level 15, not 16, you get 6% resources.
-> - Tool upgrade costs were reduced from 400 to 350, and 800 to 750.
 
+<iframe width="840" height="472" src="https://www.youtube.com/embed/nRwTJq0DD-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+Bonus Time
+----------
+
+- Bonus Exp/Bonus Gold/Bonus Resources was combined into "Bonus Time" which is a single instance giving all 3 bonuses.
+- Bonus Time now comes with a modifier which increases as more bonus time is credited. The starting value is 25% and increases by 1% after certain time thresholds.
+NOTE: The modifier depends on the total amount of bonus time since the current period was initiated. The modifier resets when bonus time expires. For example, after a $20 purchase (26% modifier), and with 1 minute remaining, a second player makes a $25 purchase, the modifier increases to 27%.
+- Nobility ranks now give an additional 1% bonus per rank.
+
+Honor Tokens
+------------
+
+- Honor Tokens can be exchanged for Honor at a rate of 10:1, and can be traded on the Market.
+- When making a purchase, you receive 1 Honor Token for every $1 spent. You still receive 100% of the Honor from the purchase.
 
 Gathering
 ---------
 
-- Upgrade levels past 100 give +0.5% boost to the resource bonus from jewels and runes.
-- Tool levels 16-20 now give +6% resources per level. 21-25 give +7% and 26-30 give +8%.
-- T7-T9 runes now give +1.7%, +3.8% and +8.8% resources, up from +1.6%, 3.2% and 6.4%.
-- The gathering level bonus for resources was increased slightly.
-- Each gathering level after 100 gives a +0.4% chance for double gathering item drops. This rolls until failure, but the max modifier is currently x3. Eg at level 130 you have a 12% chance of getting double sandstone, and then a further 12% chance of getting 3x.
-- Each tool upgrade from level 10 onwards now gives a chance to receive more than 1 tool component per drop.
-- Gem Fragments, Sapphires, Tree Sap and Sandstone now start dropping at level 50.
-- Rubies, Birds Nests and Marble now start dropping at level 60.
-- Gatherers lower than level 50 will now receive a resource drop of 140 + (level * 10).
-- Since newer players will have less income due to the above changes, the costs of the first few tool levels were decreased: Levels 1-6 now cost 5/25/60/150/350/750 down from 10/30/75/175/400/800.
-- The maximum level of gathering upgrades was increased to 500.
+- Decreased the variance between resource gains by increasing the minimum roll and decreasing the maximum roll.
+- From tool level 12 onwards, each tool level now gives a higher rate of resources.
+- Each level past level 100 gives a bonus to the gathering boost from tools/jewels/runes. Starting at 0.3% per level, increasing exponentially. Examples: Level 150: +17%, Level 200: 38.8%, Level 250: 66.3%, Level 500: 338.2%.
+- At certain upgrade levels, you have a chance at double shards: 100: 10%, 150: 20%, 200: 35%, 250: 55%, 300: 80%.
+- The "Resources" gathering upgrade was reduced from +1% per level to +0.5% per level, but separated out onto a new multiplication stack.
 
-Items
+Battling
+--------
+
+- Added a new area: Draconic Isles
+- Slightly reduced the gold from the final few mobs in The Underworld.
+- Added more mobs to the Abyss and switched around some names.
+
+Raids
 -----
 
-- New Item: Resource Cache. Can be traded on the Black Market for 10,000 of any resource.
+- Large Resource Silo and Alchemy Merchant were switched in the raid order. Anyone who was currently on one of these raids will have switched to the other.
+- Large Resource Silo now gives between 30k-35k resources, up from 25k-30k.
+- Alchemy Merchant now gives 50k-60k gold, up from 30k-50k.
+- Giant Resource Silo now gives 65-75k resources, up from 50-60k.
+- The gold rewards from the Small/Large Bank raids were increased significantly.
+- The rewards from the Master Alchemists Hut were increased.
+- Slightly increased the effectiveness of Scout rarity when determining raid rarity.
 
-Woodcutting
------------
+Alchemy
+-------
 
-- When rolling for an uncommon item, you now have a 20% chance of finding a Resource Cache instead of a Tree Sap.
+- Haste potions now increase action speed by 7.5% for 1,000 actions (was 5% for 500).
+- Superior haste potions now increase action speed by 10% for 1,000 actions (was 5.5% for 550).
 
-Runes/Jewels
-------------
+Misc/Bugs
+---------
 
-- Runes and Jewels now gain a +0.5% bonus to their attributes for every level you have in the relevant skill over 60. At level 100, you'll have a +20% bonus to their attributes.
-- Jewels no longer have a self-crafted bonus.
-- Crafting gems from gem fragments now gives significantly more exp.
-
-## Raids
-
-- Alchemy Merchant now drops 30,000-50,000 gold instead of 2-4 tree sap.
-- Traveling Merchant now drops 60,000-80,000 gold instead of 4-6 tree sap.
-- Stone Merchant raid drops adjusted: Marble drop rate now 28% (was 30%) and now drops 1 marble (was 1-2). Sandstone drop rate now 31% (was 30%) and now drops 5-7 Sandstone (was 4-7). Credit drop rate now 9% (was 8%).
-
-Gathering Shard Boost
----------------------
-
-- Gathering Shard Boost added, which boosts the amount of Gathering Skill Shards dropped.
-- A clan totem was added for the new boost.
-- A trinket mod for the new boost was added to the pool for gathering trinket drops.
-
-Clans
------
-
-- Clan totems at levels 43 and above have had their cost curves adjusted. They now increase at a rate that is fixed at a ratio of approx 11.44:1 for gold:res. Previously the gold increased faster than the resources causing problems at around levels 50 and higher.
-- Clans can now convert gold, metal, wood and stone via the clan storage. The amount they can convert depends on their clan level and resets monthly.
-- The exp curve after clan level 102 was reduced significantly.
-
-Market
-------
-
-- When placing orders for resources, you can now use decimals for the price. Eg 3.15 gold. When fulfilling an order, your total cost is rounded up to the nearest 1 gold.
-
-
-Bosses
-------
-
-- All bosses had their level increased by 2.
-- After the above increase, all bosses with levels below 10 are now level 10.
-
-Misc
-----
-
-- New accounts now have a link directly to the Beginner's Guide on the quick navigation until they are 7 days old.
-- Since a new boost was added - until the next patch, resetting boosts now deducts 5 credits instead of 50/1%.
-- Added 4 new mobs to the Underworld temporarily until a new area is added in the next patch.
+- Gathering Shards Totem now displayed on clan profile.
+- Fixed the issue with clans leveling incorrectly after the previous update.
+- When gaining a runecrafting/jewelcrafting level, your level bonuses to stats are now immediately applied.
+- Fixed the "max" calculation when trying to purchase resources from the market.
+- Boost reset cost now reverted to 50 credits or 1%.
+- You can now have a maximum of 30 days worth of portal battles stored, up from 10.
