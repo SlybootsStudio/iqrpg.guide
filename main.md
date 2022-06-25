@@ -8,14 +8,15 @@ Welcome to **IQRPG Guide**, the help site for [Idle Quest RPG](https://www.iqrpg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=o3kNtE0PJok&t=45s) for full chapter list.
 
-## Author Bias
-
-Advice on this site is given by Tempest, unless otherwise stated. I am not a "top player" focused on maximizing income-per-action, which is what many players of incremental and PBBG games are trying to achieve. I am a gatherer, and crafter, and my experience in the game is primarily in those skills, not battling.
-
 ## Links
 
-* [Discord](https://discord.gg/trm2zNB)
+* [Game Server](https://www.iqrpg.com/)
 * [Test Server](https://test.iqrpg.com)
+* [Discord](https://discord.gg/trm2zNB)
+
+## Author Bias
+
+Advice on this site is given by Tempest, unless otherwise stated. I am not a "top player" focused on maximizing income-per-action, which is what many players of incremental and PBBG games are trying to achieve. I am casual player focusing on gatherer, crafting, and enjoying my experience in the game.
 
 ### Disclaimer
 

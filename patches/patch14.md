@@ -2,10 +2,7 @@
 
 [Patches](patches.md)
 
-
 <iframe width="840" height="472" src="https://www.youtube.com/embed/nRwTJq0DD-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 Bonus Time
 ----------
