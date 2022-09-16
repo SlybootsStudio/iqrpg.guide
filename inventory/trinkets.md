@@ -13,11 +13,11 @@ Players who battle and gather need to switch their trinkets when they switch the
 
 These tools will help your understanding of how trinkets work.
 
-[Trinket Calculator](https://slyboots.studio/iqrpg-trinket-calculator/)
+### [Trinket Calculator](https://slyboots.studio/iqrpg-trinket-calculator/)
 
 See your drop rate for trinkets.
 
-[Trinket Generator](https://slyboots.studio/iqrpg-trinket-generator/)
+### [Trinket Generator](https://slyboots.studio/iqrpg-trinket-generator/)
 
 See what values are possible on trinkets.
 
