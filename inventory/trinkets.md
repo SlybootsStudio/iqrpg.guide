@@ -8,6 +8,19 @@ Trinkets are non-tradeable, upgradable, sets of buffs. You can equip 3 trinkets 
 
 Players who battle and gather need to switch their trinkets when they switch their action types.
 
+
+## Tools
+
+These tools will help your understanding of how trinkets work.
+
+[Trinket Calculator](https://slyboots.studio/iqrpg-trinket-calculator/)
+
+See your drop rate for trinkets.
+
+[Trinket Generator](https://slyboots.studio/iqrpg-trinket-generator/)
+
+See what values are possible on trinkets.
+
 ## Investment Strategy
 
 Trinkets are items (and their components are resources) which are difficult to obtain because they are locked behind only a couple of expensive upgrades: Land, and Treasure Hunter. Increasing your trinket drop chance and having high daily actions is the best way to accumulate trinkets.
@@ -78,16 +91,16 @@ Destroying fragments is the primary way of finding fragments, though some global
 
 | Tier | Rare | Epic | Legendary | Mythic |
 | ---- | ---- | ---- | --------- | ------ |
-| T1 | 1 | 2 | 3 | ? |
-| T2 | ? | ? | ? | ? |
-| T3 | ? | ? | ? | ?
-| T4 | 32 | ? | ? | ?
-| T5 | ? | ? | ? | ?
-| T6 | ? | 130 | 173 | ?
-| T7 | ? | ? | ? | ?
-| T8 |  - | ? | ? | ?
-| T9 |  - | - | ? | ?
-| T10 | - | - | - | ?
+| T1 | 1 | 2 | 3 | 4 |
+| T2 | 4 | 5 | 7 | 8 |
+| T3 | 11 | 17 | 22 | 27
+| T4 | 32 | 39 | 52 | 64
+| T5 | 50 | 75 | 100 | 125
+| T6 | 87 | 131 | 173 | 216
+| T7 | 137 | 206 | 275 | 343
+| T8 |  - | 308 | 410 | 512
+| T9 |  - | - | 583 | 729
+| T10 | - | - | - | 1000
 
 ### Essence
 
@@ -97,7 +110,7 @@ Destroying trinkets provide essence. Currently, this is the only way to obtain e
 | ---- | ---- |
 | Epic | 1 |
 | Legendary | 5 |
-| Mythical | ? |
+| Mythical | 25 |
 
 ## Rerolling trinkets
 
@@ -109,7 +122,7 @@ Costs are based on rarity. This re-rolls the base values of each buff currently 
 | ---- | ---- | --- |
 | Epic | 10 | 1 |
 | Legendary | 15 | 5 |
-| Mythical | ? | ? |
+| Mythical | 25 | 20 |
 
 ## Upgrading trinkets
 
@@ -118,13 +131,13 @@ Costs are based on rarity. This re-rolls the base values of each buff currently 
 | T2 | 4 | 6 | 8 | 10 |
 | T3 | 13 | 20 | 27 | 33
 | T4 | 32 | 48 | 64 | 80
-| T5 | 62 | 93 | 125 | 155
+| T5 | 62 | 93 | 125 | 156
 | T6 | 108 | 162 | 216 | 270
 | T7 | 171 | 257 | 343 | 428
 | T8 |  - | 384 | 512 | 640
 | T9 |  - | - | 729 | 911
 | T10 | - | - | - | 1250
-| TOTAL | 341 | 896 | 1925 | 3654
+| TOTAL | 341 | 896 | 2024 | 3778
 
 
 
