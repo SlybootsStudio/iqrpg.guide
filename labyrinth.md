@@ -13,7 +13,7 @@ You spend up to 100 actions to see how far into the labyrinth you can progress. 
 
 ## Labyrinth
 
-The labyrinth are regenerated at server reset (00:00 server time).
+The labyrinth are regenerated at server reset (00:00 server time). Everyone has the same labyrinth for that day.
 
 ![image](https://user-images.githubusercontent.com/267296/199644449-de74042f-f14d-4d72-8385-21509e783196.png)
 
@@ -26,7 +26,7 @@ Each room has a skill and tier associated with it.
 | Tier | Success rate per level | Success rate with a Level 100 skill | 
 | ---- | ---- | ---- |
 | <span class='lab1'>*</span> | .143 | 14.3%
-| <span class='lab2'>**</span> | .100 | 14.3%
+| <span class='lab2'>**</span> | .100 | 10%
 | <span class='rarity-epic'>***</span> |  .071 | 7.1%
 | <span class='rarity-legendary'>****</span> |  ??? | ???
 | <span class='rarity-mythic'>*****</span> | ??? | ???
