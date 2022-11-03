@@ -25,10 +25,11 @@ Each room has a skill and tier associated with it.
 
 | Tier | Success rate per level | Success rate with a Level 100 skill | 
 | ---- | ---- | ---- |
-| <span class='rarity-uncommon'>*</span> | .143 | 14.3%
-| <span class='rarity-epic'>**</span> |  .100 | 10%
-| <span class='rarity-legendary'>***</span> |  .071 | 7.1%
-| <span class='rarity-mythic'>****</span> | ??? | ???
+| <span class='lab1'>*</span> | .143 | 14.3%
+| <span class='lab2'>**</span> | .100 | 14.3%
+| <span class='rarity-epic'>***</span> |  .071 | 7.1%
+| <span class='rarity-legendary'>****</span> |  ??? | ???
+| <span class='rarity-mythic'>*****</span> | ??? | ???
 
 ## Rewards
 
