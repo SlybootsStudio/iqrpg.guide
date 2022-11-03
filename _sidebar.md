@@ -34,6 +34,8 @@
   * [Black Market](market/blackmarket.md)
 * [Dungeons](dungeons.md)
 
+* [Labyrinth **(NEW)**](labyrinth.md)
+
 <!-- * Crafting -->
 <!-- * [Runecrafting](crafting/runecrafting.md) -->
 <!-- * [Jewelcrafting](crafting/jewelcrafting.md) -->
