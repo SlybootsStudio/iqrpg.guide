@@ -28,8 +28,12 @@ Each room has a skill and tier associated with it.
 | <span class='lab1'>*</span> | .143 | 14.3%
 | <span class='lab2'>**</span> | .100 | 10%
 | <span class='rarity-epic'>***</span> |  .071 | 7.1%
-| <span class='rarity-legendary'>****</span> |  ??? | ???
+| <span class='rarity-legendary'>****</span> |  .0526 | 5.26%
 | <span class='rarity-mythic'>*****</span> | ??? | ???
+
+An attempt in a room rewards experience for the room's skill. So you can get crafting experience without spending any materials.
+
+Experience Potions, Aptitude
 
 ## Rewards
 
@@ -41,7 +45,7 @@ There are three drop-tables (Low, medium, and high).
 
 Rewards scaled based on your current skill levels.
 
-Additionally, you get 30-32 Artisan Shards per room.
+Additionally, you get a base amount of `Artisan Shards` (around 100) even if you don't complete any rooms. Additional shards seem to be related to total progress.
 
 ### Artisan Shards
 
