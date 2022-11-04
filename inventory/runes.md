@@ -44,13 +44,16 @@ Rune Belt determines how many runes you can have equipped at the moment. You use
 
 Your runecrafting level will give a boost to the buff on your runes. The runes do not need to be self-crafted to get this boost. The boost applies to all stats, including the resource.
 
+As of Patch 13, Runes and Jewels now gain a +0.5% bonus to their attributes for every level you have in the relevant skill over 60. At level 100, you'll have a +20% bonus to their attributes.
+
 | Level | Boost
 | ---- | ------
-| 60 | 5%
+| 60 | 0%
 | 80 | 10%
-| 100 | 15%
-| 120 | 20%
-| 140 | 25%
+| 100 | 20%
+| 120 | 30%
+| 140 | 40%
+| ... | ...
 
 <!-- ## Related -->
 

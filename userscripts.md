@@ -43,3 +43,10 @@ var masterAudioLevel = .3;
 Removes the header image and auto bar animation
 
 ### [Battle Stats](https://greasyfork.org/en/scripts/436718-iqrpg-battle-stats)
+
+
+### Labyrinth Dungeon Script
+
+Coming soon.
+
+<iframe width="840" height="472" src="https://www.youtube.com/embed/9kRA_ZdP9MI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

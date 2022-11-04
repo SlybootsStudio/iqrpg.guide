@@ -55,7 +55,7 @@ It is impossible to gauge their value because we do not know how much will be re
 
 ### Alchemical Dust
 
-**These are not yet implemented,** will be used to craft `Haste Potions`. These are tradeable.
+**These are not yet implemented,** will be used to for a new item, `Crafted Haste Potions`. Dust are tradeable.
 
 It is impossible to gauge their value because we do not know how much will be required.
 
