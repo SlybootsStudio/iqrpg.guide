@@ -8,6 +8,7 @@
 <iframe width="840" height="472" src="https://www.youtube.com/embed/JvlgmSEKuYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > This video is currently outdated and will be re-recorded.
+> It is referencing very out of date information. Refer to the text on this page for the most up-to-date prices.
 
 ## Boss Tokens
 
