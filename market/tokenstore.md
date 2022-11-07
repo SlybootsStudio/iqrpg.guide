@@ -2,7 +2,6 @@
 
 > Patch 12 made changes to the token store and dungeoneering tokens. The 6th Rune slot was added, which created renewed demand for Runic Leather, the price of which was drastically reduced in the token store. Acquisition of boss tokens was also changed to be more favorable to help support this change.
 >
-> As of 1/26/2021, the Runic Leather cost should be considered unstable, as the patch was just released on this day and the market remains unsettled.
 
 ## Walkthrough
 
@@ -30,22 +29,20 @@ You get boss tokens only from fighting global bosses (appearing in the right-han
 
 ### Redeeming Tokens
 
-I've listed different prices of **Runic Leather** to help demonstrate the different values, depending on where the market values the item.
+As of November, 2022, these are the market prices for these items. I am using the best 'Wanted', or 'Buy' offer price.
 
 | Item | Boss Tokens | Estimated Market Price | Gold per boss token
 | ---- | ----------- | ---------------------- | --------------------
-| Runic Leather | 2,000 | 10m gold | 5,000
-| Runic Leather | 2,000 | 15m gold | 7,500
-| Runic Leather | 2,000 | 20m gold | 10,000
-| Vial of Orc Blood | 250 | 2,2m gold | 8,800
+| Runic Leather | 2,000 | 25m gold | 12,500
+| Vial of Orc Blood | 250 | 4m gold | 16,000
 
 
 ### Exchanging Boss Tokens for Gold
 
 | Item | Quantity per 2K tokens | Estimated Market Price | Profit per 2K tokens
 | ---- | ----------- | ---------------------- | --------------------
-| Runic Leather | 1 | 15m gold | 15m
-| Vial of Orc Blood | 8 | 2.2m gold | 17.6m
+| Runic Leather | 1 | 25m gold | 25m
+| Vial of Orc Blood | 8 | 4m gold | 32m
 
 
 ## Jewel Slots
