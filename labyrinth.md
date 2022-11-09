@@ -37,6 +37,9 @@ Experience Potions, Aptitude
 
 ## Rewards
 
+![image](https://user-images.githubusercontent.com/267296/200761550-4ab0cbe8-04ff-467d-80e6-ac6e70d9c051.png)
+
+
 Once completing the Labyrinth, you can open the "Labyrinth Reward Chest" which contains a number of items depending on how far you progressed.
 
 The minimum reward is 1 item, but an additional item is added for each room you pass after room 5.
@@ -64,3 +67,18 @@ It is impossible to gauge their value because we do not know how much will be re
 Two leaderboards for Labyrinth exist, one for `Progress Today` and one for `Progress Yesterday`. Leaderboards update every 5 minutes.
 
 ![image](https://user-images.githubusercontent.com/267296/199644111-84d846ff-cb7b-4f30-bd5a-875b8ee83e1c.png)
+
+
+## Labyrinth Companion (Userscript)
+
+Coming soon.
+
+![image](https://user-images.githubusercontent.com/267296/200761757-722bef13-c293-4de8-b148-f6e3a051e64f.png)
+
+
+Labyrinth Companion can be installed using Tampermonkey.
+
+- Visually displays your Labyrinth just like a Dungeon.
+- Calculates the percent chance of each room, based on your skills.
+- Estimates the actions each room will take (based on chance)
+- Estimates how far you can go in to Labyrinth with a given amount of actions.
