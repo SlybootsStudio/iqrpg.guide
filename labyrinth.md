@@ -29,7 +29,7 @@ Each room has a skill and tier associated with it.
 | <span class='lab2'>**</span> | .100 | 10%
 | <span class='rarity-epic'>***</span> |  .071 | 7.1%
 | <span class='rarity-legendary'>****</span> |  .0526 | 5.26%
-| <span class='rarity-mythic'>*****</span> | ??? | ???
+| <span class='rarity-mythic'>*****</span> | 0.044 | 4.4%
 
 An attempt in a room rewards experience for the room's skill. So you can get crafting experience without spending any materials.
 
