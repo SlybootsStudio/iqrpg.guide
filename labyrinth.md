@@ -71,7 +71,9 @@ Two leaderboards for Labyrinth exist, one for `Progress Today` and one for `Prog
 
 ## Labyrinth Companion (Userscript)
 
-Coming soon.
+https://greasyfork.org/en/scripts/454607-iqrpg-labyrinth-companion
+
+More information: https://slyboots.studio/iqrpg-labyrinth-companion/#/
 
 ![image](https://user-images.githubusercontent.com/267296/200761757-722bef13-c293-4de8-b148-f6e3a051e64f.png)
 
