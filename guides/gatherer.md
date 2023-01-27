@@ -9,7 +9,7 @@ by Kalesaur
 
 ## Premium store
 
-- res boost = drop boost > exp > mastery
+- drop boost > res boost > exp > mastery
 - Max each boost before moving on to the next
 
 ## Gathering upgrades
