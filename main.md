@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to **IQRPG Guide**, the help site for [Idle Quest RPG](https://www.iqrpg.com/). This site is a work in progress and may include incomplete or incorrect information. The primary audience intended for this site are new players looking to better understand the game.
+Welcome to the **IQRPG Guide**, the official help guide for [Idle Quest RPG](https://www.iqrpg.com/). This site is a work-in-progress and may include incomplete, incorrect, or outdated information. The primary audience intended for this site are new players looking to better understand the game.
 
 ## Walkthrough
 
@@ -14,9 +14,9 @@ Welcome to **IQRPG Guide**, the help site for [Idle Quest RPG](https://www.iqrpg
 * [Test Server](https://test.iqrpg.com)
 * [Discord](https://discord.gg/trm2zNB)
 
-## Author Bias
+### Author Disclosure
 
-Advice on this site is given by Tempest, unless otherwise stated. I am not a "top player" focused on maximizing income-per-action, which is what many players of incremental and PBBG games are trying to achieve. I am casual player focusing on gatherer, crafting, and enjoying my experience in the game.
+Advice on this site is given by Tempest, unless otherwise stated. Tempest is a casual player with over three years experience.
 
 ### Disclaimer
 
@@ -24,7 +24,7 @@ This web site is maintained independently by players, and we give a huge thanks 
 
 ## Contributors
 
-This project is open-source and welcome contributors. Reach out to Tempest in-game or Discord for details.
+This project is [open-source](https://github.com/SlybootsStudio/iqrpg.guide) and welcome contributors. Reach out to Tempest in-game or Discord for details.
 
 * Tempest
 * Kalesaur
