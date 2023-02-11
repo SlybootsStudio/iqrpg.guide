@@ -94,9 +94,9 @@ Destroying fragments is the primary way of finding fragments, though some global
 | T1 | 1 | 2 | 3 | 4 |
 | T2 | 4 | 5 | 7 | 8 |
 | T3 | 11 | 17 | 22 | 27
-| T4 | 32 | 39 | 52 | 64
+| T4 | 26 | 39 | 52 | 64
 | T5 | 50 | 75 | 100 | 125
-| T6 | 87 | 131 | 173 | 216
+| T6 | 87 | 130 | 173 | 216
 | T7 | 137 | 206 | 275 | 343
 | T8 |  - | 308 | 410 | 512
 | T9 |  - | - | 583 | 729
@@ -137,8 +137,7 @@ Costs are based on rarity. This re-rolls the base values of each buff currently 
 | T8 |  - | 384 | 512 | 640
 | T9 |  - | - | 729 | 911
 | T10 | - | - | - | 1250
-| TOTAL | 341 | 896 | 2024 | 3778
-
+| TOTAL | 390 | 970 | 2024 | 3778
 
 
 ## Related
