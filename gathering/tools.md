@@ -29,7 +29,7 @@ You'll see a modal with details about your current level and the cost to upgrade
 | 7 | 800 | 1,440
 | 8 | 1,500 | 2,940
 | 9 | 2,500 | 5,440
-| 10 | 4,000 | 9,440 | ~1.9b <span class='gold'>gold</span>
+| 10 | 4,000 | 9,440 | 1.9b <span class='gold'>gold</span>
 | 11 | 6,000 | 15,440
 | 12 | 8,500 | 23,940
 | 13 | 11,500 | 35,440
