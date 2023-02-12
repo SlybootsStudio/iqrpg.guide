@@ -2,7 +2,7 @@
 
 Land offers all players additional content and bonuses. Each player has their own land, which can range from a camp to a kingdom. The costs to upgrade land increase significantly, but these unlock additional bonuses and [raids](raids.md).
 
-> **New players** should try to get to a Village ( Level 3). This unlocks a several raids, especially the 8-hour standard raid for when you plan to be absent for a long period of time. It is not advisable to go beyond level 3 as a new player, as there are often cheaper upgrades you should focus on.
+> **New players** should try to get to a Village ( Level 5). This unlocks a several raids, especially the 8-hour standard raid for when you plan to be absent for a long period of time. It is not advisable to go beyond level 3 as a new player, as there are often cheaper upgrades you should focus on.
 
 ## Walkthrough
 
@@ -10,24 +10,24 @@ Land offers all players additional content and bonuses. Each player has their ow
 
 ## Costs
 
-| Level | Name | Gold | Amount of each resource (metal, wood, stone) |
+| Level | Name | Gold | Each resource |
 | ----- | ---- | ---- | ----- |
-| 1 | Camp | 250,000 | 50,000 |
-| 2 | Small Village | 1,250,000 | 250,000 |
-| 3 | Village | 2,500,000 | 500,000 |
-| 4 | Large Village | 5,000,000 | 1,000,000 |
-| 5 | Small Town | 10,000,000 | 2,000,000 |
-| 6 | Town | 20,000,000 | 4,000,000 |
-| 7 | Large Town | 40,000,000 | 8,000,000 |
-| 8 | Small City | 80,000,000 | 16,000,000 |
-| 9 | City | 160,000,000 | 32,000,000 |
-| 10 | Large City | 320,000,000 | 64,000,000 |
-| 11 | Small Kingdom | 640,000,000 | 125,000,000 |
-| 12 | Kingdom | 1,250,000,000 | 250,000,000 |
-| 13 | Large Kingdom | 2,500,000,000 | 500,000,000 |
-| 14 | Small Empire | 5,000,000,000 | 1,000,000,000 |
-| 15 | Empire | 10,000,000,000 | 2,000,000,000 |
-| 16 | Large Empire | 20,000,000,000 | 4,000,000,000 |
+| 1 | Camp | 250 K | 50 K |
+| 2 | Small Village | 1.25 M | 250 K |
+| 3 | Village | 2.5 M | 500 K |
+| 4 | Large Village | 5 M | 1 M |
+| 5 | Small Town | 10 M | 2 M |
+| 6 | Town | 20 M | 4 M |
+| 7 | Large Town | 40 M | 8 M |
+| 8 | Small City | 80 M | 16 M |
+| 9 | City | 160 M | 32 M |
+| 10 | Large City | 320 M | 64 M |
+| 11 | Small Kingdom | 640 M | 125 M |
+| 12 | Kingdom | 1.25 B | 250 M |
+| 13 | Large Kingdom | 2.5 B | 5 M |
+| 14 | Small Empire | 5 B | 1 B |
+| 15 | Empire | 10 B | 2 B |
+| 16 | Large Empire | 20 B | 4 B |
 
 ## Bonuses
 
