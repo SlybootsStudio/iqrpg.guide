@@ -79,4 +79,4 @@ Level 29 is the maximum level currently.
 
 ## Calculator
 
-[Tools Calculator](https://slyboots.studio/iqrpg-tools-calculator/ ':include :type=iframe width=100% height=500px frameBorder=0')
+[Tools Calculator](https://slyboots.studio/iqrpg-tools-calculator/ ':include :type=iframe width=100% height=700px frameBorder=0')

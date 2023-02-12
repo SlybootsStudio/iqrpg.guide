@@ -7,7 +7,7 @@
 * Guides
   * [Walkthrough](guides/walkthrough.md)
   * [Beginners](guides/beginners.md)
-  * [Battler](guides/battler.md)
+  * [Battler](guides/battling.md)
   * [Gatherer](guides/gatherer.md)
 
 <!-- <hr> -->
