@@ -51,4 +51,5 @@
 * [Patches](patches.md)
 * [Premium](premium.md)
 * [FAQ](faq.md)
+* [Calculators](calculators.md)
 * [Userscripts](userscripts.md)
