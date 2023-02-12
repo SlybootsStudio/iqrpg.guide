@@ -2,7 +2,9 @@
 
 Land offers all players additional content and bonuses. Each player has their own land, which can range from a camp to a kingdom. The costs to upgrade land increase significantly, but these unlock additional bonuses and [raids](raids.md).
 
-> **New players** should try to get to a Village ( Level 5). This unlocks a several raids, especially the 8-hour standard raid for when you plan to be absent for a long period of time. It is not advisable to go beyond level 3 as a new player, as there are often cheaper upgrades you should focus on.
+> **New players** should try to get to a Village ( Level 3). This unlocks a several raids, especially the 8-hour standard raid for when you plan to be absent for a long period of time.
+
+> **Early game** Credits are in the drop table from Land 6 onward, with better chances in higher raids.
 
 ## Walkthrough
 
