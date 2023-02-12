@@ -1,2 +1,12 @@
 [13:05:38] Supreme Warlord DrunkenOirishCat: ᴏ˚◦ Percentages oughly .143 per level (tier1) // .1000 per level (tier2) // .071 per level (tier3) // .182 per level (tier4) ◦˚ᴏ
 
+
+<!-- * Crafting -->
+<!-- * [Runecrafting](crafting/runecrafting.md) -->
+<!-- * [Jewelcrafting](crafting/jewelcrafting.md) -->
+<!-- * [Alchemy](crafting/alchemy.md) -->
+<!-- * [Clans](clans.md) -->
+
+<!--  * [Jewels](inventory/jewels.md) -->
+<!-- * [Gathering Upgrade](gathering/gatheringupgrade.md) -->
+<!-- * [Skill Shards](gathering/shards.md) -->

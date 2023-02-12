@@ -1,55 +1,42 @@
 <!-- docs/_sidebar.md -->
 
-* [Main](/)
+* [**Main**](/)
 
-<hr>
+* **Guides**
 
-* Guides
   * [Walkthrough](guides/walkthrough.md)
   * [Beginners](guides/beginners.md)
   * [Battler](guides/battling.md)
   * [Gatherer](guides/gatherer.md)
 
-<!-- <hr> -->
+* **Gathering**
 
-<!-- * Battling  -->
-
-<hr>
-
-* Gathering
   * [Tools](gathering/tools.md)
-<!-- * [Gathering Upgrade](gathering/gatheringupgrade.md) -->
-<!-- * [Skill Shards](gathering/shards.md) -->
 
-
-
-<hr>
-
-* Inventory
+* **Inventory**
   * [Trinkets](inventory/trinkets.md)
   * [Runes](inventory/runes.md)
-<!--  * [Jewels](inventory/jewels.md) -->
-* Market
+  
+* **Market**
   * [Token Store](market/tokenstore.md)
   * [Black Market](market/blackmarket.md)
-* [Dungeons](dungeons.md)
 
-* [Labyrinth **(NEW)**](labyrinth.md)
+* [**Dungeons**](dungeons.md)
 
-<!-- * Crafting -->
-<!-- * [Runecrafting](crafting/runecrafting.md) -->
-<!-- * [Jewelcrafting](crafting/jewelcrafting.md) -->
-<!-- * [Alchemy](crafting/alchemy.md) -->
-<!-- * [Clans](clans.md) -->
-* [Land](land.md)
+* [**Labyrinth**](labyrinth.md)
+
+  * [Labyrinth](labyrinth.mdlabyrinth-companion-userscript)
+
+* [**Land**](land.md)
+
   * [Personnel](land/personnel.md)
   * [Raids](land/raids.md)
   * [Portal](land/portal.md)
 
-<hr>
+* **Misc**
 
-* [Patches](patches.md)
-* [Premium](premium.md)
-* [FAQ](faq.md)
-* [Calculators](calculators.md)
-* [Userscripts](userscripts.md)
+  * [Patches](patches.md)
+  * [Premium](premium.md)
+  * [FAQ](faq.md)
+  * [Calculators](calculators.md)
+  * [Userscripts](userscripts.md)
