@@ -1,5 +1,7 @@
 # Patches
 
+* [Patch 17](patches/patch15.md)
+* [Patch 16](patches/patch15.md)
 * [Patch 15](patches/patch15.md)
 * [Patch 14](patches/patch14.md)
 * [Patch 13](patches/patch13.md)
