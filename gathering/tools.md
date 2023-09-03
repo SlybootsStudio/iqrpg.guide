@@ -18,37 +18,39 @@ You'll see a modal with details about your current level and the cost to upgrade
 
 ## Upgrade Costs
 
-| Level | Tool Components | Total | Total Investment (@ 200k/component)
+> Estimate 400K per tool component as of Sept, 2023
+
+| Level | Tool Components | Total | Total Investment (@ 400K/component)
 | ---- | ---- | ---- | ---- |
 | 1 | 0 | 0
 | 2 | 10 | 10
 | 3 | 30 | 40
 | 4 | 75 | 115
-| 5 | 175 | 290 | 58m <span class='gold'>gold</span> |
+| 5 | 175 | 290 | 116m <span class='gold'>gold</span> |
 | 6 | 350 | 640
 | 7 | 800 | 1,440
 | 8 | 1,500 | 2,940
 | 9 | 2,500 | 5,440
-| 10 | 4,000 | 9,440 | 1.9b <span class='gold'>gold</span>
+| 10 | 4,000 | 9,440 | 3.8b <span class='gold'>gold</span>
 | 11 | 6,000 | 15,440
 | 12 | 8,500 | 23,940
 | 13 | 11,500 | 35,440
 | 14 | 15,000 | 50,440
-| 15 | 19,000 | 69,440 | 13.9b <span class='gold'>gold</span> |
+| 15 | 19,000 | 69,440 | 27.8b <span class='gold'>gold</span> |
 | 16 | 23,500 | 92,940
 | 17 | 28,500 | 121,440
 | 18 | 34,000 | 155,440
 | 19 | 40,000 | 195,440
-| 20 | 47,000 | 242,440 | 48.5b <span class='gold'>gold</span> |
+| 20 | 47,000 | 242,440 | 99b <span class='gold'>gold</span> |
 | 21 | 55,000 | 297,440
 | 22 | 65,000 | 362,440
 | 23 | 77,000 | 439,440
 | 24 | 91,000 | 530,440
-| 25 | 107,000 | 637,440 | 127.5b <span class='gold'>gold</span> |
+| 25 | 107,000 | 637,440 | 245b <span class='gold'>gold</span> |
 | 26 | 125,000 | 762,440
 | 27 | 145,000 | 907,440
 | 28 | 170,000 | 530,440
-| 29 | (tba) | 1,077,440 | 215.5b <span class='gold'>gold</span> |
+| 29 | (tba) | 1,077,440 | 431b <span class='gold'>gold</span> |
 
 Level 29 is the maximum level currently.
 
