@@ -30,14 +30,16 @@
 
 Rune Belt determines how many runes you can have equipped at the moment. You use **Runic Leather** to upgrade it. The Leather can come from Dungeons, Bosses, Raids, Token Store, or Market.
 
-| Slots | Runic Leathers
-| ---- | ------
-| 1 | Free
-| 2 | 1
-| 3 | 5
-| 4 | 25
-| 5 | 125
-| 6 | 375
+`Estimate 40m for Runic Leather on market, as of Sept. 2023`
+
+| Slots | Runic Leathers | Cost
+| ---- | ------ | ---- |
+| 1 | Free | n/a
+| 2 | 1 | 40m
+| 3 | 5 | 200m
+| 4 | 25 | 1b
+| 5 | 125 | 5b
+| 6 | 375 | 25b
 
 
 ## Runecrafting Skill Bonus
