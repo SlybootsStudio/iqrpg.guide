@@ -25,7 +25,6 @@
 
 * [**Labyrinth**](labyrinth.md)
 
-  * [Labyrinth](labyrinth.mdlabyrinth-companion-userscript)
 
 * [**Land**](land.md)
 
