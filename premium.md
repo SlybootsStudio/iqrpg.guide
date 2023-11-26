@@ -6,13 +6,10 @@ Base credits.
 
 Usually a bonus.
 
-Hnor Tokens.
+1 Honor for each $USD spent (account bound)
+1 Honor Token for each USD spent. (tradable)
 
-<!-- ## Purchase Credits -->
-
-<!-- ## Boosts -->
-
-## Nobility
+## Nobility Ranks
 
 >Introduced in Patch 14.
 
