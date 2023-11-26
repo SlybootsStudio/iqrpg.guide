@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to the **IQRPG Guide**, the official help guide for [Idle Quest RPG](https://www.iqrpg.com/). This site is a work-in-progress and may include incomplete, incorrect, or outdated information. The primary audience intended for this site are new players looking to better understand the game.
+Welcome to the **IQRPG Guide**, the official help guide for [Idle Quest RPG](https://www.iqrpg.com/). This site is a work-in-progress and may include incomplete, incorrect, or outdated information. The primary audience intended for this site are new players looking to better understand the game, not necessarily players to mix-max their progress.
 
 ## Walkthrough
 
@@ -16,7 +16,7 @@ Welcome to the **IQRPG Guide**, the official help guide for [Idle Quest RPG](htt
 
 ### Author Disclosure
 
-Advice on this site is given by Tempest, unless otherwise stated. Tempest is a casual player with over three years experience.
+Advice on this site is given by Tempest, unless otherwise stated. Tempest is a casual player with over four years experience.
 
 ### Disclaimer
 

@@ -1,8 +1,14 @@
 # FAQ
 
-### How do I get <item>?
+## General
 
-The `market` is going to be a reliable answer for 95% of items. The only thing you can't get from the market is trinkets and trinket essence.
+### How do I get `item`?
+
+Most items can be obtained in the `Market`. 
+
+Prices flucuate and inflate over time, as the income of players increases. This can make it difficult for new players to obtain certain items, however it also means the items that players find are worth much more.
+
+For example, at the end of 2023, **Sandstone** was selling for 500,000 gold. In 2020, it was 5,000.
 
 ### How do I make more gold?
 
@@ -11,11 +17,24 @@ The `market` is going to be a reliable answer for 95% of items. The only thing y
 - X-trade in from other games.
 - I won't lie to you, the early game is tough. It takes a bit of gold to make more gold. Stick to it and you'll slowly progress. It's an idle game after all. Marathon, not a sprint.
 
-### Why is this item so expensive?
 
-If you are patient, set up a buy order instead of immediately buying it at its selling price.
+## Market
 
-### Why can’t I equip this jewel?
+### Do I use `Buy Order` or `Sell Order`?
+
+* If you need the iem immediately, you can fulfilling a Sell Order.
+* If you don't need the item immediately, you can place a Buy Order. You must wait until someone with the item decides to sell it to you.
+
+You will end up paying more gold for the item to receive it immediately, and you don't have to compete with other Buy Order bidders.
+
+You cannot have a Buy and Sell Order up at the same time.
+
+### What is market *flipping*?
+
+A practice where you buy the item for a lower price, then resell it for a higher price. It takes minimal effort to generate gold for yourself. While this is allowed, it is commonly looked down upon by players and clans.
+
+
+## Why can’t I equip this jewel?
 
     
 You have to unlock the jewel slot. `market`>`token store`>`jewel slots`
@@ -30,17 +49,28 @@ Advertise in `trade` chat. Clan membership slots are expensive, so clans are loo
 - market. Current market price is about 2m gold each, give or take.
 - \$$$
 
-### How do I get more autos?
+### What are `autos`?
 
-- Buying using creds `premium>autos`
-- Clan
-- Land
+**Automatic Actions** represent what your character is doing and are displayed in a bar at the top of the game. Each action takes six seconds, and the count represents the amount of actions you have until you must refresh the count.
+
+The count is refreshed by clicking directly on the bar, clicking on the `Quick Links` for Battle, Mining, Woodcutting, etc. Or by going to a page in the navigation and selecting an action there (Battling, crafting, etc).
+
+Engaging with the inventory or market does not refresh actions.
+
+### How do I get more `autos`?
+
+1. Each clan has an `Autos Totem`, which provides a 2% bonus per level.
+2. Your `Land`, will give you 10 autos per upgrade.
+3. Directly buying autos through the `Premium Store`, using bound or unbound credits. The price per auto increases at certain thresholds (more details on the Premium page).
+4. You can use a `Minor Autos Potions` to temporarily gain 300 actions (30 minutes). These can stack.
 
 ### How many autos should I buy?
 
-Up to you. It depends on how often you refresh autos. The more autos you run each day, the faster you will progress.
+Your goal should be to remain as active as possible. Having more actions per day increases your progression, your income, and your likelihood of being recruited into a clan.
 
-Auto potions exist — but not profitable for most people.
+If you are able to be at your device often, and refresh actions often, then you generally won't need as many as someone who can't be as attentive to refreshing their actions. Buy as many autos as you need to try to remain as active as you can.
+
+For example, if you can only check in once an hour, then having at least 600 autos would be good. If you can only check in every two hours, then you'd want at least 1,200 autos.
 
 ### The Sewer combat area says says 15% component drop chance but I haven’t gotten a single drop!
 
