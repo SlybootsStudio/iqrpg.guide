@@ -1,5 +1,8 @@
 # Token Store
 
+
+> Patch 20 added new boss token milestones, and new jewel slots.
+
 > Patch 12 made changes to the token store and dungeoneering tokens. The 6th Rune slot was added, which created renewed demand for Runic Leather, the price of which was drastically reduced in the token store. Acquisition of boss tokens was also changed to be more favorable to help support this change.
 >
 
@@ -27,23 +30,26 @@ You get boss tokens only from fighting global bosses (appearing in the right-han
 | 400m+ | 7
 | 700m+ | 8
 | 1b+ | 9
+| 1.6+ | 10
+| 2.2b+ | 11
+| 2.9b+ | 12
 
 ### Redeeming Tokens
 
-As of November, 2022, these are the market prices for these items. I am using the best 'Wanted', or 'Buy' offer price.
+As of mid-June 2024, these are the market prices for these items. I am using the best 'Wanted', or 'Buy' offer price.
 
 | Item | Boss Tokens | Estimated Market Price | Gold per boss token
 | ---- | ----------- | ---------------------- | --------------------
-| Runic Leather | 2,000 | 25m gold | 12,500
-| Vial of Orc Blood | 250 | 4m gold | 16,000
+| Runic Leather | 2,000 | 90m gold | 45,000
+| Vial of Orc Blood | 250 | 19m gold | 76,000
 
 
 ### Exchanging Boss Tokens for Gold
 
 | Item | Quantity per 2K tokens | Estimated Market Price | Profit per 2K tokens
 | ---- | ----------- | ---------------------- | --------------------
-| Runic Leather | 1 | 25m gold | 25m
-| Vial of Orc Blood | 8 | 4m gold | 32m
+| Runic Leather | 1 | 90m gold | 90m
+| Vial of Orc Blood | 8 | 19m gold | 152m
 
 
 ## Jewel Slots
@@ -63,6 +69,7 @@ As of November, 2022, these are the market prices for these items. I am using th
 | 3rd | 12,000
 | 4th | 55,000
 | 5th | 275,000
+| 6th | 900,000
 
 ### Ruby
 
@@ -71,7 +78,8 @@ As of November, 2022, these are the market prices for these items. I am using th
 | 1st | 1,000
 | 2nd | 11,000
 | 3rd | 60,000
-| 4th | 300,00
+| 4th | 300,000
+| 5th | 1,200,000
 
 ### Emerald
 
@@ -80,6 +88,8 @@ As of November, 2022, these are the market prices for these items. I am using th
 | 1st | 10,000
 | 2nd | 65,000
 | 3rd | 325,000
+| 4th | 1,500,000
+
 
 ### Diamond
 
@@ -87,3 +97,4 @@ As of November, 2022, these are the market prices for these items. I am using th
 | --- | ----
 | 1st | 50,000
 | 2nd | 350,000
+| 3rd | 1,800,000
