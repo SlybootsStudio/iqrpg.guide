@@ -1,5 +1,7 @@
 # Portal
 
+Portal is only available once you've purchased your plot of land.
+
 `Land` &rarr; `Portal`
 
 > **New Players!** This is considered mid-game content.
