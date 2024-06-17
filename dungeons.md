@@ -22,6 +22,7 @@ A general overview of all dungeons in the game.
 | <span style='color:#2f2'>Tool Component</span> | 1 | 30%
 | <span style='color:#2f2'>Bone Meal</span> | 1 | 10%
 
+<hr> 
 
 ### Mountain Pass
 
@@ -40,6 +41,8 @@ A general overview of all dungeons in the game.
 | <span style='color:#2f2'>Bone Meal</span> | 1 | 10%
 | <span style='color:#55f'>Spider Egg</span> | 1 | 9%
 | <span style='color:#55f'>Vial of Orc Blood</span> | 1 | 1%
+
+<hr>
 
 ### Desolate Tombs
 
@@ -61,6 +64,8 @@ A general overview of all dungeons in the game.
 | <span style='color:#55f'>Vial of Orc Blood</span> | 1 | 1.4%
 | <span style='color:#ff0'>Runic Leather</span> | 1 | 0.1%
 
+<hr> 
+
 ### Dragonkin Lair
 
 - **Dungeoneering Level Requirement:** 75
@@ -81,6 +86,30 @@ A general overview of all dungeons in the game.
 | <span style='color:#ff0'>Runic Leather</span> | 1 | 0.2%
 | <span style='color:#ff0'>Demonic Dust</span> | 1 | 0.2%
 
+<hr>
+
+### Sunken Ruins
+
+- **Dungeoneering Level Requirement:** 100
+- **Mob Power Level:** 15,000
+- **Key Needed:** 1x Sunken Ruins Key
+- **Rarity Type:** <span style='color:#2f2'>Uncommon</span>
+
+#### Potential Loot
+
+| Item Name | Amount | Frequency |
+| ---- | --------------------- | -------------- |
+| <span style='color:#2f2'>Weapon Component</span> | 4 | 24%
+| <span style='color:#2f2'>Armor Component</span> | 4 | 24%
+| <span style='color:#2f2'>Tool Component</span> | 4 | 24%
+| <span style='color:#2f2'>Bone Meal</span> | 2 | 20%
+| <span style='color:#55f'>Undead Heart</span> | 1 | 5.4%
+| <span style='color:#55f'>Vial of Orc Blood</span> | 1 | 2%
+| <span style='color:#ff0'>Runic Leather</span> | 1 | 0.3%
+| <span style='color:#ff0'>Demonic Dust</span> | 1 | 0.3%
+
+<hr>
+
 ### Abandoned Tower
 
 - **Dungeoneering Level Requirement:** 25
@@ -99,6 +128,8 @@ A general overview of all dungeons in the game.
 | <span style='color:#55f'>Vial of Orc Blood</span> | 1 | 9%
 | <span style='color:#ff0'>Runic Leather</span> | 1 | 1%
 
+<hr>
+
 ### Haunted Cells
 
 - **Dungeoneering Level Requirement:** 50
@@ -116,6 +147,8 @@ A general overview of all dungeons in the game.
 | <span style='color:#2f2'>Bone Meal</span> | 5 | 10%
 | <span style='color:#55f'>Undead Heart</span> | 1 | 9%
 | <span style='color:#ff0'>Runic Leather</span> | 1 | 1%
+
+<hr>
 
 ### Hall of Dragons
 
@@ -136,6 +169,8 @@ A general overview of all dungeons in the game.
 | <span style='color:#ff0'>Runic Leather</span> | 1 | 1.2%
 | <span style='color:#ff0'>Demonic Dust</span> | 1 | 1.2%
 
+<hr> 
+
 ### The Vault
 
 - **Dungeoneering Level Requirement:** 65
@@ -153,6 +188,8 @@ A general overview of all dungeons in the game.
 | <span style='color:gold'>Credits</span> | 5 | 12%
 | <span style='color:gold'>Gold</span> | 6,000,000 | 1.5%
 | <span style='color:gold'>Credits</span> | 10 | 1.5%
+
+<hr>
 
 ### The Treasury
 
