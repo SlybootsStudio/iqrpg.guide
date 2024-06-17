@@ -14,8 +14,13 @@
   * [Tools](gathering/tools.md)
 
 * **Inventory**
+  * [Jewels](inventory/jewels.md)
   * [Trinkets](inventory/trinkets.md)
   * [Runes](inventory/runes.md)
+  * [Currency](inventory/currency.md)
+  ---
+
+
   
 * **Market**
   * [Token Store](market/tokenstore.md)
