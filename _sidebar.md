@@ -9,6 +9,11 @@
   * [Battler](guides/battling.md)
   * [Gatherer](guides/gatherer.md)
 
+* **Battling**
+
+  * [Equipment Levels](battling/equipment.md)
+  * [Equipment Modifier](battling/equipment-mods.md)
+
 * **Gathering**
 
   * [Tools](gathering/tools.md)

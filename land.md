@@ -12,7 +12,7 @@ Land offers all players additional content and bonuses. Each player has their ow
 
 ## Costs
 
-| Level | Name | Gold | Each resource |
+| Level | Name | Gold | Each resource | Raid Unlocked | 
 | ----- | ---- | ---- | ----- |
 | 1 | Camp | 250 K | 50 K |
 | 2 | Small Village | 1.25 M | 250 K |
