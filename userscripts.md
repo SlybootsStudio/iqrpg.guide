@@ -6,13 +6,9 @@
 
 ## Audio Script
 
-### [IQRPG+ (v0.1.8)](https://greasyfork.org/en/scripts/532428-iqrpg-combined)
+### [IQRPG+ Enhanced (v0.2.0)]([https://greasyfork.org/en/scripts/532428-iqrpg-combined](https://greasyfork.org/en/scripts/532428-iqrpg-enhanced))
 
-#### Adjusting Volume
-
-This has some loud or startling sounds when certain events occur. Often times folks edit the script and set the audio files to more simple beeps.
-
-Go into the code and you can set audio between 0 and 1 line 65,
+This is an enhancement of the original IQRPG+ script that has a GUI for alert volume and notification controls.
 
 ```javascript
 var masterAudioLevel = .3;
