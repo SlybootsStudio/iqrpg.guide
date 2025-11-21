@@ -12,6 +12,7 @@
 <!--  * [Gatherer](guides/gatherer.md) -->
 
   * [Skill Levels](misc/experience.md)
+  * [Chat](misc/chat.md)
 
 
 * **Battling**
