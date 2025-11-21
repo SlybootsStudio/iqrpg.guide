@@ -63,6 +63,7 @@ If you do find one, or craft one, you'll need a lot of trinket fragments (thankf
   * 10% Chance at Treasure Hunter Level 50
   * 30% Chance at Treasure Hunter Level 75
   * 60% Chance at Treasure Hunter Level 100
+  * 80% Chance at Treasure Hunter Level 150
   * 100% Chance at Treasure Hunter Level 150
   
 ## Crafting trinkets

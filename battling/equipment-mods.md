@@ -1,5 +1,12 @@
 # Equipment Modifiers
 
+Equipment Modifiers can only be upgraded with components.
+
+Click on the equipment in the right sidebar, to bring up the upgrade popup.
+
+The two sword equipment slots use `Weapon Components`.
+
+The helm, armor, sleeves, gloves, legs and boots equipment use `Armor Components`.
 
 ## Upgrade Costs
 
