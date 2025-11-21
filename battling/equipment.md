@@ -1,4 +1,8 @@
-# Equipment Modifiers
+# Equipment Level
+
+Equipment Level can only be upgraded with gold.
+
+Click on the equipment in the right sidebar, to bring up the upgrade popup.
 
 
 ## Upgrade Costs
