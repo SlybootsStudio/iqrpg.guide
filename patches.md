@@ -1,5 +1,7 @@
 # Patches
 
+* [Patch 22](patches/patch22.md) - 11 May, 2025 (196 Days)
+* [Patch 21](patches/patch21.md) - 27 Oct, 2024 (140 Days)
 * [Patch 20](patches/patch20.md) - 9 Jun, 2024 (160 Days)
 * [Patch 19](patches/patch19.md) - 1 Jan, 2024 (18 Days)
 * [Patch 18](patches/patch18.md) - 14 Dec, 2023 (313 Days)
