@@ -11,6 +11,7 @@
 <!--  * [Battler](guides/battling.md) -->
 <!--  * [Gatherer](guides/gatherer.md) -->
 
+  * [Skill Levels](misc/experience.md)
 
 
 * **Battling**
@@ -23,6 +24,7 @@
   * [Tools](gathering/tools.md)
 
 * **Inventory**
+
   * [Jewels](inventory/jewels.md)
   * [Trinkets](inventory/trinkets.md)
   * [Runes](inventory/runes.md)
