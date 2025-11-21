@@ -2,12 +2,16 @@
 
 * [**Main**](/)
 
+
+
 * **Guides**
 
   * [Walkthrough](guides/walkthrough.md)
-  * [Beginners](guides/beginners.md)
-  * [Battler](guides/battling.md)
-  * [Gatherer](guides/gatherer.md)
+<!--  * [Beginners](guides/beginners.md) -->
+<!--  * [Battler](guides/battling.md) -->
+<!--  * [Gatherer](guides/gatherer.md) -->
+
+
 
 * **Battling**
 
