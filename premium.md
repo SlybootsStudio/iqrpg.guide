@@ -2,10 +2,6 @@
 
 $5 minimum.
 
-Base credits.
-
-Usually a bonus.
-
 1 Honor for each $USD spent (account bound)
 1 Honor Token for each USD spent. (tradable)
 
